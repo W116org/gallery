@@ -6,9 +6,7 @@ title: "W116 : Mercedes-Benz S-Class - 280S, 280SE, 280SEL, 300SD, 350SE, 350SEL
 site.url: //gallery.w116.org
 site.baseurl: /
 
-cdn: "//cdn.w116.org"
-
-img_path: "//cdn.w116.org/i"
+cdn: "//gcdn.w116.org"
 
 permalink: /:path/:basename/
 
