@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /show_room/
+permalink: /showroom/
 
 title: "W116 Gallery"
 subtitle: "Mercedes-Benz S-Class W116"
@@ -9,17 +9,15 @@ lead: "1972-1980: 280S 280SE 300SD 450SE 450SEL"
 
 <div class="row">
     <div class="col">
-        <div id="content" class="content contentWithMenu">
-            <div class="titrePage">
-                <h2><a href="../../index.html">Home</a> / <a href="249.html">Show Room</a></h2>
-            </div>
-            <div class="additional_info"> Be proud <br><br> It's all about the details </div>
+        <div id="album" class="album">
+            <h3><a href="../../index.html">Home</a> / <a href="249.html">Showroom</a></h3>
+            <h4> Be proud <br> It's all about the details </h4>
             <div class="thumbnails" id="thumbnails">
             {% for image in site.data.images -%}
-            {%- if image.storage_category_id == 249 %}
+            {% if image.storage_category_id == 249 -%}
                 <a href="{{site.cdn}}{{image.path}}{{image.file}}{{image.ext}}"><img class="img-thumbnail" src="{{site.cdn}}/i{{image.path}}{{image.file}}-sq{{image.ext}}" alt="{{image.name}}" title="{{image.comment}}"></a>
             {% endif -%}
-            {%- endfor %}
+            {% endfor -%}
             </div>
         </div>
     </div>
