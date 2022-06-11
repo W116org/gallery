@@ -19,7 +19,7 @@ lead: "1972-1980: 280S 280SE 300SD 450SE 450SEL"
             {% if image.storage_category_id == 249 %}
                 <li>
                     <a href="{{site.img_path}}{{image.path}}">
-                        <img src="{{site.img_path}}{{image.path | replace: '.', '-sq.'}}" alt="{{image.name}}" title="{{image.comment}}">
+                        <img src="{{site.img_path}}{{image.path | replace: ".", "-sq."}}" alt="{{image.name}}" title="{{image.comment}}">
                     </a>
                 </li>
             {% endif %}
