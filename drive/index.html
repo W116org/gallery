@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /
+permalink: /drive/
 
 title: "W116 Gallery"
 subtitle: "Mercedes-Benz S-Class W116"
@@ -8,22 +8,17 @@ lead: "1972-1980: 280S 280SE 300SD 450SE 450SEL"
 ---
 
 <div class="row">
-    <div class="col-md-3">
-        <div class="card text-center text-dark bg-light mb-3 mx-1">
-            <div class="card-header">
-                <h3 class="card-title">Support</h3>
-            </div>  
-            <div class="card-body">
-                <p class="card-text">Please support this site with a small donation.</p>    
-            </div>
-            <div class="card-footer">  
-                {% include donate.html %}
+    <div class="col">
+        <div id="album" class="album">
+            <h3><a href="../../index.html">Home</a> / <a href="364.html">Showroom</a></h3>
+            <h4> Location shots <br> Where the scenery counts </h4>
+            <div class="thumbnails" id="thumbnails">
+            {% for image in site.data.images -%}
+            {% if image.storage_category_id == 364 -%}
+                <a href="{{site.cdn}}{{image.path}}{{image.file}}{{image.ext}}"><img class="img-thumbnail" src="{{site.cdn}}/i{{image.path}}{{image.file}}-sq{{image.ext}}" alt="{{image.name}}" title="{{image.comment}}"></a>
+            {% endif -%}
+            {% endfor -%}
             </div>
         </div>
-    </div>
-    <div class="col-md-9">
-        <div class="d-grid gap-2 text-center">
-            New Gallery coming here soon!
-          </div>
     </div>
 </div><!-- /.row -->
