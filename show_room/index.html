@@ -18,7 +18,7 @@ lead: "1972-1980: 280S 280SE 300SD 450SE 450SEL"
             {% for image in site.data.img %}
             {% if image.storage_category_id == 249 %}
                 <li>
-                    <a href="{{site.img_path}}{{image.path}}">
+                    <a href="{{site.img_path}}{{image.path | replace: '.', '-sq.'}}">
                         <img src="{{site.img_path}}{{image.path}}" alt="{{image.name}}" title="{{image.comment}}">
                     </a>
                 </li>
