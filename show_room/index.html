@@ -7,5 +7,22 @@ subtitle: "Mercedes-Benz S-Class W116"
 lead: "1972-1980: 280S 280SE 300SD 450SE 450SEL"
 ---
 
-{% include_relative /albums.html %}
-{% include_relative /thumbs.html %}
+<div class="row">
+    <div class="col">
+        <div id="content" class="content contentWithMenu">
+            <div class="titrePage">
+                <h2><a href="../../index.html">Home</a> / <a href="249.html">Show Room</a> <span class="badge nb_items">255</span></h2>
+            </div>
+            <div class="additional_info"> Be proud <br><br> It's all about the details </div>
+            <ul class="thumbnails" id="thumbnails">
+            {% for image in site.data.img %}
+                <li>
+                    <a href="{{image.path}}">
+                        <img src="{{image.path}}" alt="{{image.name}}" title="{{image.comment}}">
+                    </a>
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div><!-- /.row -->
