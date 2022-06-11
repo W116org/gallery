@@ -8,7 +8,7 @@ site.baseurl: /
 
 cdn: "//cdn.w116.org"
 
-img_path: "//cdn.w116.org/gal/"
+img_path: "//cdn.w116.org/i"
 
 permalink: /:path/:basename/
 
