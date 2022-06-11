@@ -1799,9 +1799,9 @@
   uppercats: "232,248"
 -
   id: 249
-  name: "Show Room"
+  name: "Showroom"
   comment: "Show off your W116<!--complete-->Be proud\r\n<br><br>\r\nIt's all about the details"
-  dir: "show_room"
+  dir: "showroom"
   representative_picture_id: 5016
   uppercats: 249
 -
