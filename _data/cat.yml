@@ -6,7 +6,6 @@
   name: "Garage"
   comment: "Technical W116<!--complete-->Projects\r\n<br><br>\r\nParts"
   dir: "garage"
-  site_id: 1
   representative_picture_id: 2578
   uppercats: 1
 -
@@ -15,7 +14,6 @@
   id_uppercat: 1
   comment: "Photos of engine and parts<!--complete-->Engine images and a mystery source for an oil leak... "
   dir: "mabryt"
-  site_id: 1
   representative_picture_id: 2887
   uppercats: "1,2"
 -
@@ -23,7 +21,6 @@
   name: "Repairs1"
   id_uppercat: 1
   dir: "Repairs1"
-  site_id: 1
   representative_picture_id: 1699
   uppercats: "1,3"
 -
@@ -31,7 +28,6 @@
   name: "Arman's '74 450SEL "
   id_uppercat: 1
   dir: "Armans_450SEL"
-  site_id: 1
   representative_picture_id: 1145
   uppercats: "1,4"
 -
@@ -39,7 +35,6 @@
   name: "TJ 450's Red 280SE"
   id_uppercat: 1
   dir: "tj450red"
-  site_id: 1
   representative_picture_id: 4330
   uppercats: "1,5"
 -
@@ -47,7 +42,6 @@
   name: "A/C Problem"
   id_uppercat: 1
   dir: "AC"
-  site_id: 1
   representative_picture_id: 1106
   uppercats: "1,6"
 -
@@ -56,7 +50,6 @@
   id_uppercat: 1
   comment: "photos of W116 sump guard<!--complete-->"
   dir: "sump guard"
-  site_id: 1
   representative_picture_id: 3807
   uppercats: "1,7"
 -
@@ -64,7 +57,6 @@
   name: "Tools"
   id_uppercat: 1
   dir: "Tools"
-  site_id: 1
   representative_picture_id: 1880
   uppercats: "1,8"
 -
@@ -73,7 +65,6 @@
   id_uppercat: 1
   comment: "<!--complete-->Pictures of various mechanical repairs, etc."
   dir: "tj45069"
-  site_id: 1
   representative_picture_id: 4030
   uppercats: "1,9"
 -
@@ -81,7 +72,6 @@
   name: "A/C Compressor"
   id_uppercat: 9
   dir: "compressor"
-  site_id: 1
   representative_picture_id: 4050
   uppercats: "1,9,10"
 -
@@ -89,7 +79,6 @@
   name: "Prop. Shaft"
   id_uppercat: 9
   dir: "propshaft"
-  site_id: 1
   representative_picture_id: 4135
   uppercats: "1,9,11"
 -
@@ -98,7 +87,6 @@
   id_uppercat: 9
   comment: "Pulling apart a Rear Strut<!--complete-->"
   dir: "69strut"
-  site_id: 1
   representative_picture_id: 4004
   uppercats: "1,9,12"
 -
@@ -106,7 +94,6 @@
   name: "w126"
   id_uppercat: 9
   dir: "w126"
-  site_id: 1
   representative_picture_id: 4308
   uppercats: "1,9,13"
 -
@@ -114,7 +101,6 @@
   name: "garage"
   id_uppercat: 9
   dir: "12garage"
-  site_id: 1
   representative_picture_id: 3982
   uppercats: "1,9,14"
 -
@@ -122,7 +108,6 @@
   name: "Rear Screen Seal"
   id_uppercat: 9
   dir: "rears"
-  site_id: 1
   representative_picture_id: 4146
   uppercats: "1,9,15"
 -
@@ -130,7 +115,6 @@
   name: "Intermediate Style Steering Wheel"
   id_uppercat: 9
   dir: "str"
-  site_id: 1
   representative_picture_id: 4154
   uppercats: "1,9,16"
 -
@@ -138,7 +122,6 @@
   name: "Misc"
   id_uppercat: 9
   dir: "misc"
-  site_id: 1
   representative_picture_id: 4099
   uppercats: "1,9,17"
 -
@@ -146,7 +129,6 @@
   name: "Timing Chain"
   id_uppercat: 9
   dir: "chain"
-  site_id: 1
   representative_picture_id: 4041
   uppercats: "1,9,18"
 -
@@ -154,7 +136,6 @@
   name: "Pics 10-7-2009"
   id_uppercat: 9
   dir: "69pics_001"
-  site_id: 1
   representative_picture_id: 3997
   uppercats: "1,9,19"
 -
@@ -162,7 +143,6 @@
   name: "Rear Subframe/Final Drive"
   id_uppercat: 9
   dir: "subf"
-  site_id: 1
   representative_picture_id: 4192
   uppercats: "1,9,20"
 -
@@ -170,7 +150,6 @@
   name: "Transmission"
   id_uppercat: 9
   dir: "trans_001"
-  site_id: 1
   representative_picture_id: 4249
   uppercats: "1,9,21"
 -
@@ -178,14 +157,12 @@
   name: "Clutch K1"
   id_uppercat: 21
   dir: "k1"
-  site_id: 1
   uppercats: "1,9,21,22"
 -
   id: 23
   name: "Valve Body"
   id_uppercat: 21
   dir: "vb"
-  site_id: 1
   representative_picture_id: 4294
   uppercats: "1,9,21,23"
 -
@@ -193,7 +170,6 @@
   name: "Engine removal and installation"
   id_uppercat: 21
   dir: "engine removal"
-  site_id: 1
   representative_picture_id: 4251
   uppercats: "1,9,21,24"
 -
@@ -202,7 +178,6 @@
   id_uppercat: 21
   comment: "Clutch K2<!--complete-->"
   dir: "k2"
-  site_id: 1
   representative_picture_id: 4282
   uppercats: "1,9,21,25"
 -
@@ -210,7 +185,6 @@
   name: "Assembly"
   id_uppercat: 21
   dir: "assy"
-  site_id: 1
   representative_picture_id: 4230
   uppercats: "1,9,21,26"
 -
@@ -218,7 +192,6 @@
   name: "Practice Valve Body"
   id_uppercat: 21
   dir: "vlvbdy"
-  site_id: 1
   representative_picture_id: 4303
   uppercats: "1,9,21,27"
 -
@@ -227,7 +200,6 @@
   id_uppercat: 21
   comment: "Gear Assembly<!--complete-->"
   dir: "gear"
-  site_id: 1
   representative_picture_id: 4275
   uppercats: "1,9,21,28"
 -
@@ -235,7 +207,6 @@
   name: "Paint Job Prep"
   id_uppercat: 9
   dir: "pjp"
-  site_id: 1
   representative_picture_id: 4132
   uppercats: "1,9,29"
 -
@@ -243,7 +214,6 @@
   name: "Other"
   id_uppercat: 9
   dir: "other"
-  site_id: 1
   representative_picture_id: 4118
   uppercats: "1,9,30"
 -
@@ -251,7 +221,6 @@
   name: "Windscreen"
   id_uppercat: 9
   dir: "ws"
-  site_id: 1
   representative_picture_id: 4319
   uppercats: "1,9,31"
 -
@@ -260,7 +229,6 @@
   id_uppercat: 9
   comment: "Interior<!--complete-->"
   dir: "int"
-  site_id: 1
   representative_picture_id: 4071
   uppercats: "1,9,32"
 -
@@ -268,7 +236,6 @@
   name: "Steering Intermediate Arm Bushes"
   id_uppercat: 9
   dir: "idler arm"
-  site_id: 1
   representative_picture_id: 4068
   uppercats: "1,9,33"
 -
@@ -276,7 +243,6 @@
   name: "Seat Springs, early. Not South African!"
   id_uppercat: 9
   dir: "sasb"
-  site_id: 1
   representative_picture_id: 4150
   uppercats: "1,9,34"
 -
@@ -284,7 +250,6 @@
   name: "Struts"
   id_uppercat: 9
   dir: "struts"
-  site_id: 1
   representative_picture_id: 4156
   uppercats: "1,9,35"
 -
@@ -292,7 +257,6 @@
   name: "Transmission Mount"
   id_uppercat: 9
   dir: "trans"
-  site_id: 1
   representative_picture_id: 4196
   uppercats: "1,9,36"
 -
@@ -300,7 +264,6 @@
   name: "Continuation of Paint Job"
   id_uppercat: 9
   dir: "tjpj"
-  site_id: 1
   representative_picture_id: 4194
   uppercats: "1,9,37"
 -
@@ -308,7 +271,6 @@
   name: "Intake Manifold"
   id_uppercat: 9
   dir: "manifold"
-  site_id: 1
   representative_picture_id: 4081
   uppercats: "1,9,38"
 -
@@ -316,7 +278,6 @@
   name: "Doors and Windows"
   id_uppercat: 9
   dir: "door"
-  site_id: 1
   representative_picture_id: 4061
   uppercats: "1,9,39"
 -
@@ -324,7 +285,6 @@
   name: "Water Pump Replacement"
   id_uppercat: 9
   dir: "waterpump"
-  site_id: 1
   representative_picture_id: 4311
   uppercats: "1,9,40"
 -
@@ -333,7 +293,6 @@
   id_uppercat: 1
   comment: "<!--complete-->I thought I'd post photos of 6.9 project from purchase last year through to its full restoration. I hope to have it completed by September 2006."
   dir: "ChrismAMG69"
-  site_id: 1
   representative_picture_id: 1206
   uppercats: "1,41"
 -
@@ -342,7 +301,6 @@
   id_uppercat: 1
   comment: "Close ups of a broken tube under the roof<!--complete-->"
   dir: "Sunroof"
-  site_id: 1
   representative_picture_id: 1847
   uppercats: "1,42"
 -
@@ -351,7 +309,6 @@
   id_uppercat: 1
   comment: "donor car?<!--complete-->uk ebay wreck"
   dir: "280se"
-  site_id: 1
   representative_picture_id: 940
   uppercats: "1,43"
 -
@@ -359,7 +316,6 @@
   name: "Ryan's wheel projects"
   id_uppercat: 1
   dir: "Ryans wheels"
-  site_id: 1
   representative_picture_id: 1828
   uppercats: "1,44"
 -
@@ -367,7 +323,6 @@
   name: "Goodies bought from AutohausAZ"
   id_uppercat: 1
   dir: "AutohausAZ goodies"
-  site_id: 1
   representative_picture_id: 1154
   uppercats: "1,45"
 -
@@ -376,14 +331,12 @@
   id_uppercat: 1
   comment: "1977 280se icon gold oliveoyls w116<!--complete-->All pics of oliveoyl's car."
   dir: "oliveoyl"
-  site_id: 1
   uppercats: "1,46"
 -
   id: 47
   name: "holley"
   id_uppercat: 1
   dir: "holley"
-  site_id: 1
   representative_picture_id: 2619
   uppercats: "1,47"
 -
@@ -392,7 +345,6 @@
   id_uppercat: 1
   comment: "Red<!--complete-->"
   dir: "tjred"
-  site_id: 1
   representative_picture_id: 4339
   uppercats: "1,48"
 -
@@ -400,7 +352,6 @@
   name: "Andy_photos"
   id_uppercat: 1
   dir: 577
-  site_id: 1
   representative_picture_id: 996
   uppercats: "1,49"
 -
@@ -409,7 +360,6 @@
   id_uppercat: 49
   comment: "seats <!--complete-->"
   dir: "lewis"
-  site_id: 1
   representative_picture_id: 1008
   uppercats: "1,49,50"
 -
@@ -417,7 +367,6 @@
   name: "South African 6.9 under consideration for purchase"
   id_uppercat: 1
   dir: "SouthAfrican6point9"
-  site_id: 1
   representative_picture_id: 1840
   uppercats: "1,51"
 -
@@ -426,7 +375,6 @@
   id_uppercat: 1
   comment: "Home Made rotisserie 6.9<!--complete-->"
   dir: "Rotisserie"
-  site_id: 1
   representative_picture_id: 1747
   uppercats: "1,52"
 -
@@ -434,7 +382,6 @@
   name: "Finnie"
   id_uppercat: 52
   dir: "Finnie"
-  site_id: 1
   representative_picture_id: 1769
   uppercats: "1,52,53"
 -
@@ -442,7 +389,6 @@
   name: "Hoist"
   id_uppercat: 52
   dir: "Hoist"
-  site_id: 1
   representative_picture_id: 1774
   uppercats: "1,52,54"
 -
@@ -450,7 +396,6 @@
   name: "Start of Restoration"
   id_uppercat: 52
   dir: "Start of Restoration"
-  site_id: 1
   representative_picture_id: 1817
   uppercats: "1,52,55"
 -
@@ -459,7 +404,6 @@
   id_uppercat: 1
   comment: "Repair shots<!--complete-->"
   dir: "450sel69"
-  site_id: 1
   representative_picture_id: 974
   uppercats: "1,56"
 -
@@ -468,7 +412,6 @@
   id_uppercat: 1
   comment: "Benz related photos<!--complete-->"
   dir: "450 se"
-  site_id: 1
   representative_picture_id: 947
   uppercats: "1,57"
 -
@@ -477,7 +420,6 @@
   id_uppercat: 1
   comment: "Picture diary of the transplant<!--complete-->This will be the picture diary of the engine transplant / restoration of 2 1978 450SEL's into 1 SUPER 450SEL!\r\nThis machine will be known as... &quot;Von Cammandant&quot;"
   dir: "Operation_Von_Cammandant"
-  site_id: 1
   representative_picture_id: 1550
   uppercats: "1,58"
 -
@@ -485,7 +427,6 @@
   name: "TJ's 280S Project"
   id_uppercat: 1
   dir: "tj280s"
-  site_id: 1
   representative_picture_id: 3951
   uppercats: "1,59"
 -
@@ -493,7 +434,6 @@
   name: "Rear Seat"
   id_uppercat: 1
   dir: "RearSeat"
-  site_id: 1
   representative_picture_id: 1695
   uppercats: "1,60"
 -
@@ -501,7 +441,6 @@
   name: "finding the ratio of your diff"
   id_uppercat: 1
   dir: "diff ratios"
-  site_id: 1
   representative_picture_id: 2551
   uppercats: "1,61"
 -
@@ -509,7 +448,6 @@
   name: "'77 280SE Aus Milan Brown"
   id_uppercat: 1
   dir: "djenka018"
-  site_id: 1
   representative_picture_id: 2567
   uppercats: "1,62"
 -
@@ -517,7 +455,6 @@
   name: "Fog Machine Leak Detector"
   id_uppercat: 1
   dir: "DasCar"
-  site_id: 1
   representative_picture_id: 1225
   uppercats: "1,63"
 -
@@ -526,7 +463,6 @@
   id_uppercat: 1
   comment: "photos of bodywork restoration<!--complete-->Restoring an original W116 280SE in the UK"
   dir: "littlefin"
-  site_id: 1
   representative_picture_id: 2873
   uppercats: "1,64"
 -
@@ -535,7 +471,6 @@
   id_uppercat: 1
   comment: "As the title says<!--complete-->You tell me?"
   dir: "Cams"
-  site_id: 1
   representative_picture_id: 1174
   uppercats: "1,65"
 -
@@ -543,7 +478,6 @@
   name: "Neglected M100 found in a field near Pretoria"
   id_uppercat: 1
   dir: "south african M100"
-  site_id: 1
   representative_picture_id: 3779
   uppercats: "1,66"
 -
@@ -551,7 +485,6 @@
   name: "6.9 sill replacement"
   id_uppercat: 1
   dir: "sixnine sills"
-  site_id: 1
   representative_picture_id: 3734
   uppercats: "1,67"
 -
@@ -560,7 +493,6 @@
   id_uppercat: 1
   comment: "<!--complete-->What's that button for in front of the hazard warning light button ?"
   dir: "JamesR"
-  site_id: 1
   representative_picture_id: 1386
   uppercats: "1,68"
 -
@@ -568,7 +500,6 @@
   name: "Repairs2"
   id_uppercat: 1
   dir: "Repairs2"
-  site_id: 1
   representative_picture_id: 1720
   uppercats: "1,69"
 -
@@ -577,7 +508,6 @@
   id_uppercat: 1
   comment: "<!--complete-->motec 6.9 on flat bed truck on way to workshop"
   dir: "motec6.9"
-  site_id: 1
   representative_picture_id: 2918
   uppercats: "1,70"
 -
@@ -586,7 +516,6 @@
   id_uppercat: 70
   comment: "<!--complete-->motec6.9 on flat bed truck on way to workshop"
   dir: "motec6.9"
-  site_id: 1
   representative_picture_id: 2940
   uppercats: "1,70,71"
 -
@@ -595,7 +524,6 @@
   id_uppercat: 1
   comment: "The &quot;Goldilocks&quot; restoration project<!--complete-->"
   dir: "ptashek"
-  site_id: 1
   representative_picture_id: 3463
   uppercats: "1,72"
 -
@@ -603,7 +531,6 @@
   name: "AMG Front spoiler install"
   id_uppercat: 1
   dir: "spoiler install"
-  site_id: 1
   representative_picture_id: 3793
   uppercats: "1,73"
 -
@@ -611,7 +538,6 @@
   name: "engine_out"
   id_uppercat: 1
   dir: "engine_out"
-  site_id: 1
   representative_picture_id: 2582
   uppercats: "1,74"
 -
@@ -619,7 +545,6 @@
   name: "1976 350se euro engine photos and diags"
   id_uppercat: 1
   dir: "1976_350se_euro_engine"
-  site_id: 1
   representative_picture_id: 894
   uppercats: "1,75"
 -
@@ -627,7 +552,6 @@
   name: "Preasure Tester"
   id_uppercat: 75
   dir: "Preasure_Tester"
-  site_id: 1
   representative_picture_id: 885
   uppercats: "1,75,76"
 -
@@ -636,7 +560,6 @@
   id_uppercat: 75
   comment: "Timing After New Cam Chain<!--complete-->"
   dir: "New_Cam_Chain"
-  site_id: 1
   representative_picture_id: 880
   uppercats: "1,75,77"
 -
@@ -644,7 +567,6 @@
   name: "Stereo"
   id_uppercat: 75
   dir: "Stereo"
-  site_id: 1
   representative_picture_id: 891
   uppercats: "1,75,78"
 -
@@ -653,7 +575,6 @@
   id_uppercat: 75
   comment: "throttle<!--complete-->"
   dir: "throttle"
-  site_id: 1
   representative_picture_id: 897
   uppercats: "1,75,79"
 -
@@ -662,7 +583,6 @@
   id_uppercat: 75
   comment: "Photos of cam chain at 150,000 miles<!--complete-->"
   dir: "Cam_Chain"
-  site_id: 1
   representative_picture_id: 878
   uppercats: "1,75,80"
 -
@@ -670,7 +590,6 @@
   name: "350se ht leads"
   id_uppercat: 1
   dir: "350SE-ht-leads"
-  site_id: 1
   representative_picture_id: 943
   uppercats: "1,81"
 -
@@ -678,7 +597,6 @@
   name: "MB_Mike"
   id_uppercat: 1
   dir: "MB_Mike_001"
-  site_id: 1
   representative_picture_id: 1450
   uppercats: "1,82"
 -
@@ -686,7 +604,6 @@
   name: "Rust and Rot"
   id_uppercat: 82
   dir: "MB_Mike"
-  site_id: 1
   representative_picture_id: 1467
   uppercats: "1,82,83"
 -
@@ -694,7 +611,6 @@
   name: "oris hitch"
   id_uppercat: 82
   dir: "oris"
-  site_id: 1
   uppercats: "1,82,84"
 -
   id: 85
@@ -702,7 +618,6 @@
   id_uppercat: 1
   comment: "Procedures to replace Chain and sliders<!--complete-->"
   dir: "Chain Replacement"
-  site_id: 1
   representative_picture_id: 1182
   uppercats: "1,85"
 -
@@ -711,7 +626,6 @@
   id_uppercat: 1
   comment: "Technical<!--complete-->"
   dir: "japes"
-  site_id: 1
   representative_picture_id: 2630
   uppercats: "1,86"
 -
@@ -719,7 +633,6 @@
   name: "fabric"
   id_uppercat: 86
   dir: "fabric door"
-  site_id: 1
   representative_picture_id: 2633
   uppercats: "1,86,87"
 -
@@ -728,7 +641,6 @@
   id_uppercat: 1
   comment: "nothing to see here<!--complete-->6.9 custom aluminium radiator"
   dir: "Perth_Dave"
-  site_id: 1
   representative_picture_id: 1667
   uppercats: "1,88"
 -
@@ -736,7 +648,6 @@
   name: "szyki's 6.9 project"
   id_uppercat: 1
   dir: 6.9
-  site_id: 1
   representative_picture_id: 1017
   uppercats: "1,89"
 -
@@ -744,7 +655,6 @@
   name: "parcel nets"
   id_uppercat: 1
   dir: "parcel nets"
-  site_id: 1
   representative_picture_id: 3409
   uppercats: "1,90"
 -
@@ -752,7 +662,6 @@
   name: "6.9 sunroof problems"
   id_uppercat: 1
   dir: "sixnine sunroof"
-  site_id: 1
   representative_picture_id: 3750
   uppercats: "1,91"
 -
@@ -760,7 +669,6 @@
   name: "Operating heater valve with a servo"
   id_uppercat: 1
   dir: "ACCII servo project"
-  site_id: 1
   representative_picture_id: 1108
   uppercats: "1,92"
 -
@@ -768,7 +676,6 @@
   name: "Door Lock Mechanism"
   id_uppercat: 1
   dir: "DoorLockMechanism"
-  site_id: 1
   representative_picture_id: 1229
   uppercats: "1,93"
 -
@@ -776,7 +683,6 @@
   name: "engine_out2"
   id_uppercat: 1
   dir: "engine_out2"
-  site_id: 1
   representative_picture_id: 2587
   uppercats: "1,94"
 -
@@ -785,7 +691,6 @@
   id_uppercat: 1
   comment: "Wrecking 280SE<!--complete-->"
   dir: "280SE Wreck"
-  site_id: 1
   representative_picture_id: 934
   uppercats: "1,95"
 -
@@ -793,7 +698,6 @@
   name: "Restoring 450SE"
   id_uppercat: 1
   dir: "restoring 450SE"
-  site_id: 1
   representative_picture_id: 3670
   uppercats: "1,96"
 -
@@ -801,7 +705,6 @@
   name: "Outside Temperature Gauge"
   id_uppercat: 96
   dir: "Ambient Temp Gauge"
-  site_id: 1
   representative_picture_id: 3649
   uppercats: "1,96,97"
 -
@@ -809,7 +712,6 @@
   name: "AMG engine tuneup"
   id_uppercat: 1
   dir: "AMG engine tuneup"
-  site_id: 1
   representative_picture_id: 1110
   uppercats: "1,98"
 -
@@ -818,7 +720,6 @@
   id_uppercat: 1
   comment: "Before and After<!--complete-->I decided to have a go at redyeing my balck leather and filling cracks etc with all the Leatherique Products;  I'll add photos as I go; Here are BEFORE photos; I've just spent 1hr so far adding the REJUVENATOR to all seats (used a spary bottle and sponge)"
   dir: "AMG69s Leather Restoration Using Leatherique"
-  site_id: 1
   representative_picture_id: 1115
   uppercats: "1,99"
 -
@@ -826,7 +727,6 @@
   name: "Stereo Install"
   id_uppercat: 1
   dir: "stereo_install"
-  site_id: 1
   representative_picture_id: 3805
   uppercats: "1,100"
 -
@@ -834,7 +734,6 @@
   name: "John6007"
   id_uppercat: 1
   dir: "John6007"
-  site_id: 1
   representative_picture_id: 1397
   uppercats: "1,101"
 -
@@ -842,7 +741,6 @@
   name: "fuel filter change"
   id_uppercat: 1
   dir: "fuel filter change"
-  site_id: 1
   representative_picture_id: 2594
   uppercats: "1,102"
 -
@@ -850,7 +748,6 @@
   name: "M110 water pump, thermostat and crank oil seal"
   id_uppercat: 1
   dir: "M110 cooling"
-  site_id: 1
   representative_picture_id: 1411
   uppercats: "1,103"
 -
@@ -858,7 +755,6 @@
   name: "Tow Bar"
   id_uppercat: 1
   dir: "tow_bar"
-  site_id: 1
   representative_picture_id: 4353
   uppercats: "1,104"
 -
@@ -867,7 +763,6 @@
   id_uppercat: 1
   comment: "Owner's Manual:Euro D-Jetronic<!--complete-->Owner's Manual:Euro D-Jetronic"
   dir: "Owners Manual"
-  site_id: 1
   representative_picture_id: 1575
   uppercats: "1,105"
 -
@@ -875,7 +770,6 @@
   name: "Adam's 1977 6.9"
   id_uppercat: 1
   dir: "adamb"
-  site_id: 1
   representative_picture_id: 1912
   uppercats: "1,106"
 -
@@ -883,7 +777,6 @@
   name: "rubbers"
   id_uppercat: 106
   dir: "rubbers"
-  site_id: 1
   representative_picture_id: 2001
   uppercats: "1,106,107"
 -
@@ -891,7 +784,6 @@
   name: "restoration2_001"
   id_uppercat: 106
   dir: "restoration2_001"
-  site_id: 1
   representative_picture_id: 1997
   uppercats: "1,106,108"
 -
@@ -899,7 +791,6 @@
   name: "goodwood2011"
   id_uppercat: 106
   dir: "goodwood2011"
-  site_id: 1
   representative_picture_id: 1934
   uppercats: "1,106,109"
 -
@@ -907,14 +798,12 @@
   name: "ATF_leak"
   id_uppercat: 106
   dir: "ATF_leak"
-  site_id: 1
   uppercats: "1,106,110"
 -
   id: 111
   name: "Parts Car"
   id_uppercat: 106
   dir: "partscar"
-  site_id: 1
   representative_picture_id: 1994
   uppercats: "1,106,111"
 -
@@ -922,14 +811,12 @@
   name: "showoff2"
   id_uppercat: 106
   dir: "showoff2"
-  site_id: 1
   uppercats: "1,106,112"
 -
   id: 113
   name: "nearlyfinished"
   id_uppercat: 106
   dir: "nearlyfinished"
-  site_id: 1
   representative_picture_id: 1941
   uppercats: "1,106,113"
 -
@@ -937,7 +824,6 @@
   name: "showoff"
   id_uppercat: 106
   dir: "showoff"
-  site_id: 1
   representative_picture_id: 2013
   uppercats: "1,106,114"
 -
@@ -945,7 +831,6 @@
   name: "Dash from the parts car - for sale"
   id_uppercat: 106
   dir: "dash"
-  site_id: 1
   representative_picture_id: 1927
   uppercats: "1,106,115"
 -
@@ -953,7 +838,6 @@
   name: "Water Leak"
   id_uppercat: 1
   dir: "WaterLeak"
-  site_id: 1
   representative_picture_id: 1892
   uppercats: "1,116"
 -
@@ -962,7 +846,6 @@
   id_uppercat: 1
   comment: "Repair work<!--complete-->"
   dir: "geospine"
-  site_id: 1
   representative_picture_id: 2610
   uppercats: "1,117"
 -
@@ -970,7 +853,6 @@
   name: "oscar's"
   id_uppercat: 1
   dir: "oscars"
-  site_id: 1
   representative_picture_id: 2961
   uppercats: "1,118"
 -
@@ -978,7 +860,6 @@
   name: "tacho and clock"
   id_uppercat: 118
   dir: "cluster"
-  site_id: 1
   representative_picture_id: 3162
   uppercats: "1,118,119"
 -
@@ -986,7 +867,6 @@
   name: "door mould  vacuum element removal"
   id_uppercat: 118
   dir: "door mould  vacuum element removal"
-  site_id: 1
   representative_picture_id: 3163
   uppercats: "1,118,120"
 -
@@ -994,14 +874,12 @@
   name: "manifold pressure sensor"
   id_uppercat: 118
   dir: "mps"
-  site_id: 1
   uppercats: "1,118,121"
 -
   id: 122
   name: "speedobits"
   id_uppercat: 118
   dir: "speedobits"
-  site_id: 1
   representative_picture_id: 3326
   uppercats: "1,118,122"
 -
@@ -1009,7 +887,6 @@
   name: "BMW Solex manual"
   id_uppercat: 118
   dir: "BMW Solex manual"
-  site_id: 1
   representative_picture_id: 3028
   uppercats: "1,118,123"
 -
@@ -1017,7 +894,6 @@
   name: "AC"
   id_uppercat: 118
   dir: "AC"
-  site_id: 1
   representative_picture_id: 2994
   uppercats: "1,118,124"
 -
@@ -1025,7 +901,6 @@
   name: "manifold gauge, hoses and fittings"
   id_uppercat: 124
   dir: "manifold gauge hoses and fittings"
-  site_id: 1
   representative_picture_id: 3022
   uppercats: "1,118,124,125"
 -
@@ -1033,7 +908,6 @@
   name: "vacuum advance"
   id_uppercat: 118
   dir: "vac advance"
-  site_id: 1
   representative_picture_id: 3401
   uppercats: "1,118,126"
 -
@@ -1041,7 +915,6 @@
   name: "alternator"
   id_uppercat: 118
   dir: "alternator"
-  site_id: 1
   representative_picture_id: 3082
   uppercats: "1,118,127"
 -
@@ -1049,7 +922,6 @@
   name: "centre console"
   id_uppercat: 118
   dir: "centre console"
-  site_id: 1
   representative_picture_id: 3149
   uppercats: "1,118,128"
 -
@@ -1058,7 +930,6 @@
   id_uppercat: 118
   comment: "Where to put jack stands<!--complete-->"
   dir: "jackedup"
-  site_id: 1
   representative_picture_id: 3220
   uppercats: "1,118,129"
 -
@@ -1066,7 +937,6 @@
   name: "rotor and cap"
   id_uppercat: 118
   dir: "rotor and cap"
-  site_id: 1
   representative_picture_id: 3314
   uppercats: "1,118,130"
 -
@@ -1074,7 +944,6 @@
   name: "cause of cabin leak"
   id_uppercat: 118
   dir: "cause of cabin leak"
-  site_id: 1
   representative_picture_id: 3146
   uppercats: "1,118,131"
 -
@@ -1082,7 +951,6 @@
   name: "grill badge"
   id_uppercat: 118
   dir: "grill badge"
-  site_id: 1
   representative_picture_id: 3188
   uppercats: "1,118,132"
 -
@@ -1090,7 +958,6 @@
   name: "Cable Oiler"
   id_uppercat: 118
   dir: "cable oiler"
-  site_id: 1
   representative_picture_id: 3126
   uppercats: "1,118,133"
 -
@@ -1098,7 +965,6 @@
   name: "Mirrors"
   id_uppercat: 118
   dir: "mirrors"
-  site_id: 1
   representative_picture_id: 3230
   uppercats: "1,118,134"
 -
@@ -1106,7 +972,6 @@
   name: "wheels"
   id_uppercat: 118
   dir: "wheels"
-  site_id: 1
   representative_picture_id: 3406
   uppercats: "1,118,135"
 -
@@ -1114,7 +979,6 @@
   name: "switch lighting"
   id_uppercat: 118
   dir: "switch lighting"
-  site_id: 1
   representative_picture_id: 3395
   uppercats: "1,118,136"
 -
@@ -1122,7 +986,6 @@
   name: "front speaker holes"
   id_uppercat: 118
   dir: "front speaker holes"
-  site_id: 1
   representative_picture_id: 3179
   uppercats: "1,118,137"
 -
@@ -1130,7 +993,6 @@
   name: "suspension pump"
   id_uppercat: 118
   dir: "suspension pump"
-  site_id: 1
   representative_picture_id: 3393
   uppercats: "1,118,138"
 -
@@ -1138,7 +1000,6 @@
   name: "idle speed control screw assembly"
   id_uppercat: 118
   dir: "idle speed control screw assembly"
-  site_id: 1
   representative_picture_id: 3217
   uppercats: "1,118,139"
 -
@@ -1146,7 +1007,6 @@
   name: "280S"
   id_uppercat: 118
   dir: "280S"
-  site_id: 1
   representative_picture_id: 2964
   uppercats: "1,118,140"
 -
@@ -1154,7 +1014,6 @@
   name: "'REFURBISHING AND INTERIOR REPAINTING'"
   id_uppercat: 118
   dir: "REFURBISHING AND INTERIOR REPAINTING"
-  site_id: 1
   representative_picture_id: 3078
   uppercats: "1,118,141"
 -
@@ -1162,7 +1021,6 @@
   name: "miscellaneous"
   id_uppercat: 118
   dir: "misc"
-  site_id: 1
   representative_picture_id: 3271
   uppercats: "1,118,142"
 -
@@ -1170,7 +1028,6 @@
   name: "knee pad clips"
   id_uppercat: 142
   dir: "kneep pad clips"
-  site_id: 1
   representative_picture_id: 3269
   uppercats: "1,118,142,143"
 -
@@ -1178,7 +1035,6 @@
   name: "floor mats"
   id_uppercat: 142
   dir: "mat"
-  site_id: 1
   representative_picture_id: 3275
   uppercats: "1,118,142,144"
 -
@@ -1186,7 +1042,6 @@
   name: "refinishing zebrano trim"
   id_uppercat: 118
   dir: "refinishing zebrano trim"
-  site_id: 1
   representative_picture_id: 3290
   uppercats: "1,118,145"
 -
@@ -1194,7 +1049,6 @@
   name: "Parks' Method of Refinishing Timber"
   id_uppercat: 118
   dir: "refinishing timber"
-  site_id: 1
   representative_picture_id: 3287
   uppercats: "1,118,146"
 -
@@ -1202,7 +1056,6 @@
   name: "upholstery"
   id_uppercat: 146
   dir: "upholstery"
-  site_id: 1
   representative_picture_id: 3289
   uppercats: "1,118,146,147"
 -
@@ -1210,7 +1063,6 @@
   name: "Height Adjustment Handle Replacement"
   id_uppercat: 118
   dir: "Height Adjustment Handle Replacement"
-  site_id: 1
   representative_picture_id: 3071
   uppercats: "1,118,148"
 -
@@ -1218,7 +1070,6 @@
   name: "sphere"
   id_uppercat: 118
   dir: "sphere"
-  site_id: 1
   representative_picture_id: 3334
   uppercats: "1,118,149"
 -
@@ -1226,7 +1077,6 @@
   name: "strut"
   id_uppercat: 118
   dir: "strut"
-  site_id: 1
   representative_picture_id: 3343
   uppercats: "1,118,150"
 -
@@ -1234,14 +1084,12 @@
   name: "brakes"
   id_uppercat: 118
   dir: "brakes"
-  site_id: 1
   uppercats: "1,118,151"
 -
   id: 152
   name: "reservoir sensors"
   id_uppercat: 151
   dir: "reservoir sensors"
-  site_id: 1
   representative_picture_id: 3086
   uppercats: "1,118,151,152"
 -
@@ -1249,7 +1097,6 @@
   name: "steering wheels"
   id_uppercat: 118
   dir: "steering wheels"
-  site_id: 1
   representative_picture_id: 3339
   uppercats: "1,118,153"
 -
@@ -1257,7 +1104,6 @@
   name: "Brakes"
   id_uppercat: 118
   dir: "brakes_001"
-  site_id: 1
   representative_picture_id: 3104
   uppercats: "1,118,154"
 -
@@ -1265,7 +1111,6 @@
   name: "BECKER Monza Ipod install"
   id_uppercat: 118
   dir: "Becker"
-  site_id: 1
   representative_picture_id: 3044
   uppercats: "1,118,155"
 -
@@ -1273,14 +1118,12 @@
   name: "beckers"
   id_uppercat: 155
   dir: "beckers"
-  site_id: 1
   uppercats: "1,118,155,156"
 -
   id: 157
   name: "beckers"
   id_uppercat: 155
   dir: "beckers_001"
-  site_id: 1
   representative_picture_id: 3060
   uppercats: "1,118,155,157"
 -
@@ -1289,7 +1132,6 @@
   id_uppercat: 1
   comment: "450SEL 5.0ltr<!--complete-->"
   dir: "W116 5.0ltr"
-  site_id: 1
   representative_picture_id: 1888
   uppercats: "1,158"
 -
@@ -1297,7 +1139,6 @@
   name: "6.9 suspension issues"
   id_uppercat: 1
   dir: "sixnine suspension"
-  site_id: 1
   representative_picture_id: 3752
   uppercats: "1,159"
 -
@@ -1306,7 +1147,6 @@
   id_uppercat: 1
   comment: "Some pictures before, during and after Timing Chain replacement.<!--complete-->"
   dir: "tj 450"
-  site_id: 1
   representative_picture_id: 3879
   uppercats: "1,160"
 -
@@ -1315,7 +1155,6 @@
   id_uppercat: 160
   comment: "M117 Engines<!--complete-->"
   dir: 117
-  site_id: 1
   representative_picture_id: 3812
   uppercats: "1,160,161"
 -
@@ -1323,14 +1162,12 @@
   name: "Rust Repairs"
   id_uppercat: 160
   dir: "rr"
-  site_id: 1
   uppercats: "1,160,162"
 -
   id: 163
   name: "General Pics"
   id_uppercat: 160
   dir: "general"
-  site_id: 1
   representative_picture_id: 3866
   uppercats: "1,160,163"
 -
@@ -1339,7 +1176,6 @@
   id_uppercat: 160
   comment: "SLS Valve Rebuild<!--complete-->"
   dir: "slsvalve"
-  site_id: 1
   representative_picture_id: 3925
   uppercats: "1,160,164"
 -
@@ -1347,7 +1183,6 @@
   name: "New Cylinder Heads"
   id_uppercat: 160
   dir: "nwhds"
-  site_id: 1
   representative_picture_id: 3919
   uppercats: "1,160,165"
 -
@@ -1355,7 +1190,6 @@
   name: "FD/WUR"
   id_uppercat: 160
   dir: "fdwur"
-  site_id: 1
   representative_picture_id: 3862
   uppercats: "1,160,166"
 -
@@ -1363,7 +1197,6 @@
   name: "HVAC Unit"
   id_uppercat: 160
   dir: "hvacu"
-  site_id: 1
   representative_picture_id: 3883
   uppercats: "1,160,167"
 -
@@ -1371,7 +1204,6 @@
   name: "Rust Repairs"
   id_uppercat: 160
   dir: "rr_001"
-  site_id: 1
   representative_picture_id: 3922
   uppercats: "1,160,168"
 -
@@ -1379,7 +1211,6 @@
   name: "Cylinder Head Work"
   id_uppercat: 160
   dir: "chw"
-  site_id: 1
   representative_picture_id: 3853
   uppercats: "1,160,169"
 -
@@ -1387,7 +1218,6 @@
   name: "Timing Chain Replacement"
   id_uppercat: 160
   dir: "chain"
-  site_id: 1
   representative_picture_id: 3823
   uppercats: "1,160,170"
 -
@@ -1395,7 +1225,6 @@
   name: "Intake Refurbishment"
   id_uppercat: 160
   dir: "intake"
-  site_id: 1
   representative_picture_id: 3897
   uppercats: "1,160,171"
 -
@@ -1403,7 +1232,6 @@
   name: "Tailshaft"
   id_uppercat: 160
   dir: "tailshaft"
-  site_id: 1
   representative_picture_id: 3929
   uppercats: "1,160,172"
 -
@@ -1412,7 +1240,6 @@
   id_uppercat: 1
   comment: "before and after photos<!--complete-->"
   dir: "ultrasonic cleaning"
-  site_id: 1
   representative_picture_id: 4375
   uppercats: "1,173"
 -
@@ -1421,7 +1248,6 @@
   id_uppercat: 1
   comment: "Prep work for the silver 450<!--complete-->"
   dir: "prep-work"
-  site_id: 1
   representative_picture_id: 3442
   uppercats: "1,174"
 -
@@ -1430,7 +1256,6 @@
   id_uppercat: 1
   comment: "Bits &amp; pieces<!--complete-->"
   dir: "Armans 450SEL"
-  site_id: 1
   representative_picture_id: 1133
   uppercats: "1,175"
 -
@@ -1439,7 +1264,6 @@
   id_uppercat: 1
   comment: "holley conversion 280s<!--complete-->"
   dir: "solex to holley"
-  site_id: 1
   representative_picture_id: 3757
   uppercats: "1,176"
 -
@@ -1448,7 +1272,6 @@
   id_uppercat: 1
   comment: "Air Cleaner, Intake, Scoop, etc.<!--complete-->Images of air cleaners, intakes, scoops, positioning, etc."
   dir: "Air"
-  site_id: 1
   representative_picture_id: 1131
   uppercats: "1,177"
 -
@@ -1456,7 +1279,6 @@
   name: "Service and repair of gearbox contactor unit"
   id_uppercat: 1
   dir: "gearbox contators"
-  site_id: 1
   representative_picture_id: 2600
   uppercats: "1,178"
 -
@@ -1464,7 +1286,6 @@
   name: "Mforcer's Restoration"
   id_uppercat: 1
   dir: "restoration"
-  site_id: 1
   representative_picture_id: 3479
   uppercats: "1,179"
 -
@@ -1472,7 +1293,6 @@
   name: "New interior leather and carpets"
   id_uppercat: 179
   dir: "interior"
-  site_id: 1
   representative_picture_id: 3634
   uppercats: "1,179,180"
 -
@@ -1481,7 +1301,6 @@
   id_uppercat: 1
   comment: "Pictures from the garage<!--complete-->"
   dir: "caseys_garage"
-  site_id: 1
   representative_picture_id: 2260
   uppercats: "1,181"
 -
@@ -1489,7 +1308,6 @@
   name: "6.9 brake system overhaul"
   id_uppercat: 1
   dir: "sixnine brakes"
-  site_id: 1
   representative_picture_id: 3726
   uppercats: "1,182"
 -
@@ -1498,7 +1316,6 @@
   id_uppercat: 1
   comment: "pics of various ac components<!--complete-->"
   dir: "ac stuff"
-  site_id: 1
   representative_picture_id: 1906
   uppercats: "1,183"
 -
@@ -1506,7 +1323,6 @@
   name: "Torana68"
   id_uppercat: 1
   dir: "torana68"
-  site_id: 1
   representative_picture_id: 4350
   uppercats: "1,184"
 -
@@ -1515,7 +1331,6 @@
   id_uppercat: 1
   comment: "What is this?<!--complete-->"
   dir: "mystery connector"
-  site_id: 1
   representative_picture_id: 2953
   uppercats: "1,185"
 -
@@ -1524,7 +1339,6 @@
   id_uppercat: 1
   comment: "Images of recently purchased car and on some maintenance jobs<!--complete-->"
   dir: "Mersu"
-  site_id: 1
   representative_picture_id: 1506
   uppercats: "1,186"
 -
@@ -1533,7 +1347,6 @@
   id_uppercat: 1
   comment: "Hat Shelf Felt<!--complete-->Hat Shelf Felt Strip"
   dir: "Hat Shelf"
-  site_id: 1
   representative_picture_id: 1258
   uppercats: "1,187"
 -
@@ -1542,7 +1355,6 @@
   id_uppercat: 1
   comment: "The M110 exhaust manifold has some miserable problems.  This is how I fixed them<!--complete-->"
   dir: "M110_exhaust"
-  site_id: 1
   representative_picture_id: 1434
   uppercats: "1,188"
 -
@@ -1551,7 +1363,6 @@
   id_uppercat: 1
   comment: "REPAIRS MADE OF MY 74 280 SEL<!--complete-->These are the pics that show my repairs for my 280 SEL.  I painted it burgundy a few years back and chose to get it repsrayed with an Olive Green Color"
   dir: "280 SEL REPAIRS"
-  site_id: 1
   representative_picture_id: 925
   uppercats: "1,189"
 -
@@ -1560,7 +1371,6 @@
   id_uppercat: 1
   comment: "RDA brake discs gold series<!--complete-->"
   dir: "brakes"
-  site_id: 1
   representative_picture_id: 2022
   uppercats: "1,190"
 -
@@ -1569,7 +1379,6 @@
   id_uppercat: 1
   comment: "LPG conversion on 280s<!--complete-->"
   dir: "CBLPG"
-  site_id: 1
   representative_picture_id: 1165
   uppercats: "1,191"
 -
@@ -1578,7 +1387,6 @@
   id_uppercat: 1
   comment: "Ryan's process of 116024 steering box removal, overhaul, refitment and alignment and setup of the steering assembly<!--complete-->Ryan's process of 116024 steering box removal, overhaul, refitment and alignment and setup of the steering assembly"
   dir: "power_steering"
-  site_id: 1
   representative_picture_id: 3412
   uppercats: "1,192"
 -
@@ -1587,7 +1395,6 @@
   id_uppercat: 1
   comment: "leaks in the vaccum system<!--complete-->"
   dir: "w116vacuumleaks"
-  site_id: 1
   representative_picture_id: 4390
   uppercats: "1,193"
 -
@@ -1595,7 +1402,6 @@
   name: "6.9 suspension repairs"
   id_uppercat: 1
   dir: "6point9 suspension overhaul"
-  site_id: 1
   representative_picture_id: 1061
   uppercats: "1,194"
 -
@@ -1603,7 +1409,6 @@
   name: "1979 450 SEL for sale"
   id_uppercat: 1
   dir: "79-450 for sale"
-  site_id: 1
   representative_picture_id: 1104
   uppercats: "1,195"
 -
@@ -1612,7 +1417,6 @@
   id_uppercat: 1
   comment: "Wiring diagram W116.020 280S 1975<!--complete-->Wiring diagram W116.020 280S 1975"
   dir: "Wiring diagram 280S 1975"
-  site_id: 1
   representative_picture_id: 1895
   uppercats: "1,196"
 -
@@ -1620,7 +1424,6 @@
   name: "Keymar Warehouse"
   id_uppercat: 1
   dir: "keymar_warehouse"
-  site_id: 1
   representative_picture_id: 2657
   uppercats: "1,197"
 -
@@ -1629,7 +1432,6 @@
   id_uppercat: 1
   comment: "Engine swap and general photos<!--complete-->"
   dir: "m110to2jz"
-  site_id: 1
   representative_picture_id: 2883
   uppercats: "1,198"
 -
@@ -1637,7 +1439,6 @@
   name: "PB"
   id_uppercat: 1
   dir: "PB"
-  site_id: 1
   representative_picture_id: 1648
   uppercats: "1,199"
 -
@@ -1645,7 +1446,6 @@
   name: "6.9 engine vacuum connections"
   id_uppercat: 1
   dir: "6point9 vacuum"
-  site_id: 1
   representative_picture_id: 1092
   uppercats: "1,200"
 -
@@ -1654,7 +1454,6 @@
   id_uppercat: 1
   comment: "Tacho 101<!--complete-->"
   dir: "Tacho 101"
-  site_id: 1
   representative_picture_id: 1863
   uppercats: "1,201"
 -
@@ -1662,7 +1461,6 @@
   name: "koan's bits"
   id_uppercat: 1
   dir: "koan"
-  site_id: 1
   uppercats: "1,202"
 -
   id: 203
@@ -1670,7 +1468,6 @@
   id_uppercat: 202
   comment: "6.9 cylinder head<!--complete-->A few pictures related to 6.9 cylinder head removal for a valve grind"
   dir: "engine_work"
-  site_id: 1
   representative_picture_id: 2815
   uppercats: "1,202,203"
 -
@@ -1678,7 +1475,6 @@
   name: "Brown ebay 6.9"
   id_uppercat: 202
   dir: "_Brown_ebay_6.9"
-  site_id: 1
   representative_picture_id: 2780
   uppercats: "1,202,204"
 -
@@ -1687,7 +1483,6 @@
   id_uppercat: 202
   comment: "GPS Mirror in a 123<!--complete-->"
   dir: "SmartMirror"
-  site_id: 1
   representative_picture_id: 2772
   uppercats: "1,202,205"
 -
@@ -1695,7 +1490,6 @@
   name: "Suspension pump repair"
   id_uppercat: 202
   dir: "suspension_pump"
-  site_id: 1
   representative_picture_id: 2840
   uppercats: "1,202,206"
 -
@@ -1704,7 +1498,6 @@
   id_uppercat: 202
   comment: "VDO Vacuum Cruise Control Actuator<!--complete-->VDO Vacuum Cruise Control Actuator"
   dir: "Cruise_Actuator"
-  site_id: 1
   representative_picture_id: 2692
   uppercats: "1,202,207"
 -
@@ -1713,7 +1506,6 @@
   id_uppercat: 202
   comment: "Home made tools and tool kit<!--complete-->Home made tools and supplied tool kit 6.9"
   dir: "home_made_tools"
-  site_id: 1
   representative_picture_id: 2825
   uppercats: "1,202,208"
 -
@@ -1722,7 +1514,6 @@
   id_uppercat: 202
   comment: "Adding an external input to a Becker mexico<!--complete-->"
   dir: "Becker_Mexico_External_Input"
-  site_id: 1
   representative_picture_id: 2665
   uppercats: "1,202,209"
 -
@@ -1730,7 +1521,6 @@
   name: "Bosch Flasher Fix"
   id_uppercat: 202
   dir: "Bosch Flasher Fix"
-  site_id: 1
   representative_picture_id: 2674
   uppercats: "1,202,210"
 -
@@ -1738,7 +1528,6 @@
   name: "Misc"
   id_uppercat: 202
   dir: "Miscelaneious"
-  site_id: 1
   representative_picture_id: 2716
   uppercats: "1,202,211"
 -
@@ -1747,7 +1536,6 @@
   id_uppercat: 1
   comment: "Roof gutter rubber<!--complete-->"
   dir: "roof-gutter-rubber"
-  site_id: 1
   representative_picture_id: 3688
   uppercats: "1,212"
 -
@@ -1755,7 +1543,6 @@
   name: "Repairs3"
   id_uppercat: 1
   dir: "Repairs3"
-  site_id: 1
   representative_picture_id: 1732
   uppercats: "1,213"
 -
@@ -1764,14 +1551,12 @@
   id_uppercat: 1
   comment: "restoring 450SEL<!--complete-->"
   dir: "vadel"
-  site_id: 1
   uppercats: "1,214"
 -
   id: 215
   name: "Roger"
   id_uppercat: 1
   dir: "Roger"
-  site_id: 1
   representative_picture_id: 1736
   uppercats: "1,215"
 -
@@ -1779,7 +1564,6 @@
   name: "Servo work"
   id_uppercat: 1
   dir: "servo"
-  site_id: 1
   representative_picture_id: 3703
   uppercats: "1,216"
 -
@@ -1787,7 +1571,6 @@
   name: "6.9 steering box overhaul"
   id_uppercat: 1
   dir: "6piont9 steering box"
-  site_id: 1
   representative_picture_id: 1031
   uppercats: "1,217"
 -
@@ -1795,7 +1578,6 @@
   name: "Electric window switch service"
   id_uppercat: 1
   dir: "window switch"
-  site_id: 1
   representative_picture_id: 4397
   uppercats: "1,218"
 -
@@ -1803,7 +1585,6 @@
   name: "Chain Replacement"
   id_uppercat: 1
   dir: "chain_replacement"
-  site_id: 1
   representative_picture_id: 2518
   uppercats: "1,219"
 -
@@ -1811,14 +1592,12 @@
   name: "my 1973 280S"
   id_uppercat: 1
   dir: "Takernz"
-  site_id: 1
   uppercats: "1,220"
 -
   id: 221
   name: "ckamila"
   id_uppercat: 1
   dir: "ckamila"
-  site_id: 1
   representative_picture_id: 2543
   uppercats: "1,221"
 -
@@ -1826,7 +1605,6 @@
   name: "Interior"
   id_uppercat: 221
   dir: "Interior"
-  site_id: 1
   representative_picture_id: 2541
   uppercats: "1,221,222"
 -
@@ -1834,7 +1612,6 @@
   name: "Dash stuff"
   id_uppercat: 221
   dir: "Dash"
-  site_id: 1
   representative_picture_id: 2536
   uppercats: "1,221,223"
 -
@@ -1842,7 +1619,6 @@
   name: "Blower pics"
   id_uppercat: 221
   dir: "Blower"
-  site_id: 1
   representative_picture_id: 2531
   uppercats: "1,221,224"
 -
@@ -1850,7 +1626,6 @@
   name: "ACC"
   id_uppercat: 221
   dir: "ACC"
-  site_id: 1
   representative_picture_id: 2521
   uppercats: "1,221,225"
 -
@@ -1858,7 +1633,6 @@
   name: "engine compartment stuff"
   id_uppercat: 221
   dir: "engine"
-  site_id: 1
   representative_picture_id: 2546
   uppercats: "1,221,226"
 -
@@ -1867,7 +1641,6 @@
   id_uppercat: 1
   comment: "installation of a single woodruff key to achive as close as possible to TDC after new timing chain, cam sprockets and sliders<!--complete-->With assistance from TJ450 (Tim) and WGB (Bill) Goldacre proceeded to adjust the cam timing to enable a TDC result after replacing the timing chain on the 450 SEL 12/1979. learned a few things and now present to the forum as woodruff key adjustment is not fully covered."
   dir: "Timing Chain Epic"
-  site_id: 1
   representative_picture_id: 1878
   uppercats: "1,227"
 -
@@ -1876,7 +1649,6 @@
   id_uppercat: 1
   comment: "Mercedes pics<!--complete-->"
   dir: "tony66au"
-  site_id: 1
   representative_picture_id: 4342
   uppercats: "1,228"
 -
@@ -1885,7 +1657,6 @@
   id_uppercat: 1
   comment: "Converting AC from TXV to OT<!--complete-->"
   dir: "450AC"
-  site_id: 1
   representative_picture_id: 970
   uppercats: "1,229"
 -
@@ -1894,7 +1665,6 @@
   id_uppercat: 229
   comment: "Adding coolant level Sensor to my 450<!--complete-->Adding a coolant level sensor"
   dir: "Coolant Sensor"
-  site_id: 1
   representative_picture_id: 966
   uppercats: "1,229,230"
 -
@@ -1902,7 +1672,6 @@
   name: 01043
   id_uppercat: 1
   dir: 01043
-  site_id: 1
   representative_picture_id: 863
   uppercats: "1,231"
 -
@@ -1910,7 +1679,6 @@
   name: "Fun"
   comment: "Use your imagination. W116 ONLY<!--complete-->Photo chops.\r\n  \r\nW116 Photos ONLY."
   dir: "fun"
-  site_id: 1
   representative_picture_id: 560
   uppercats: 232
 -
@@ -1918,7 +1686,6 @@
   name: "W124 black interior"
   id_uppercat: 232
   dir: "black_w124"
-  site_id: 1
   representative_picture_id: 702
   uppercats: "232,233"
 -
@@ -1927,7 +1694,6 @@
   id_uppercat: 232
   comment: "Junk yard pictures<!--complete-->"
   dir: "junkyard"
-  site_id: 1
   representative_picture_id: 812
   uppercats: "232,234"
 -
@@ -1935,7 +1701,6 @@
   name: "limo wheel pic"
   id_uppercat: 232
   dir: "limo wheel pic"
-  site_id: 1
   representative_picture_id: 816
   uppercats: "232,235"
 -
@@ -1943,7 +1708,6 @@
   name: "Ryans scratchpad"
   id_uppercat: 232
   dir: "Ryan"
-  site_id: 1
   representative_picture_id: 676
   uppercats: "232,236"
 -
@@ -1952,7 +1716,6 @@
   id_uppercat: 232
   comment: "posting photos<!--complete-->A step-by-step guide how to post photos on the 'org' using the built in image server"
   dir: "how to post photos 101"
-  site_id: 1
   representative_picture_id: 765
   uppercats: "232,237"
 -
@@ -1961,7 +1724,6 @@
   id_uppercat: 232
   comment: "heaps found on my travels<!--complete-->heap of junk"
   dir: "bombs"
-  site_id: 1
   representative_picture_id: 712
   uppercats: "232,238"
 -
@@ -1970,21 +1732,18 @@
   id_uppercat: 232
   comment: "Drag Racing movies<!--complete-->Drag Racing movies"
   dir: "drag_race"
-  site_id: 1
   uppercats: "232,239"
 -
   id: 240
   name: "W116 in the movies"
   id_uppercat: 232
   dir: "W116 in the movies"
-  site_id: 1
   uppercats: "232,240"
 -
   id: 241
   name: "Casey's Toys"
   id_uppercat: 232
   dir: "caseys_toys"
-  site_id: 1
   representative_picture_id: 715
   uppercats: "232,241"
 -
@@ -1992,7 +1751,6 @@
   name: "Lorinser Body Kit"
   id_uppercat: 232
   dir: "Lorinser"
-  site_id: 1
   representative_picture_id: 622
   uppercats: "232,242"
 -
@@ -2000,7 +1758,6 @@
   name: "oscar's"
   id_uppercat: 232
   dir: "oscars"
-  site_id: 1
   representative_picture_id: 824
   uppercats: "232,243"
 -
@@ -2008,7 +1765,6 @@
   name: "sounds"
   id_uppercat: 243
   dir: "sounds"
-  site_id: 1
   representative_picture_id: 832
   uppercats: "232,243,244"
 -
@@ -2016,7 +1772,6 @@
   name: "example"
   id_uppercat: 232
   dir: "example"
-  site_id: 1
   representative_picture_id: 727
   uppercats: "232,245"
 -
@@ -2025,7 +1780,6 @@
   id_uppercat: 232
   comment: "Graphic misc<!--complete-->"
   dir: "PhotoChopping"
-  site_id: 1
   representative_picture_id: 666
   uppercats: "232,246"
 -
@@ -2034,7 +1788,6 @@
   id_uppercat: 232
   comment: "LOL<!--complete-->"
   dir: "junky240d"
-  site_id: 1
   representative_picture_id: 779
   uppercats: "232,247"
 -
@@ -2042,7 +1795,6 @@
   name: "oscar"
   id_uppercat: 232
   dir: "oscar"
-  site_id: 1
   representative_picture_id: 822
   uppercats: "232,248"
 -
@@ -2050,7 +1802,6 @@
   name: "Show Room"
   comment: "Show off your W116<!--complete-->Be proud\r\n<br><br>\r\nIt's all about the details"
   dir: "show_room"
-  site_id: 1
   representative_picture_id: 5016
   uppercats: 249
 -
@@ -2058,7 +1809,6 @@
   name: "Bulbas -75 Mercedes-Benz 450 SE"
   id_uppercat: 249
   dir: "benz"
-  site_id: 1
   representative_picture_id: 5291
   uppercats: "249,250"
 -
@@ -2067,7 +1817,6 @@
   id_uppercat: 249
   comment: "My work-in-progress. This is going to be a beauty ;)<!--complete-->http://forum.w116.org/index.php/topic,769.0.html"
   dir: "mercedes"
-  site_id: 1
   representative_picture_id: 5644
   uppercats: "249,251"
 -
@@ -2075,7 +1824,6 @@
   name: "My Merc"
   id_uppercat: 249
   dir: "MBV80"
-  site_id: 1
   representative_picture_id: 4956
   uppercats: "249,252"
 -
@@ -2083,7 +1831,6 @@
   name: "damoic"
   id_uppercat: 249
   dir: "damoic"
-  site_id: 1
   representative_picture_id: 5388
   uppercats: "249,253"
 -
@@ -2091,7 +1838,6 @@
   name: "finally - a 116036"
   id_uppercat: 249
   dir: "Ryan 116036"
-  site_id: 1
   representative_picture_id: 5098
   uppercats: "249,254"
 -
@@ -2100,7 +1846,6 @@
   id_uppercat: 249
   comment: "My 350se<!--complete-->My 350se with her new 16&quot; Italian Fondmetal rims."
   dir: "big blue 350"
-  site_id: 1
   representative_picture_id: 5304
   uppercats: "249,255"
 -
@@ -2109,14 +1854,12 @@
   id_uppercat: 249
   comment: "Classic White 230E ... 600AUD<!--complete-->"
   dir: "ponton_w123_001"
-  site_id: 1
   uppercats: "249,256"
 -
   id: 257
   name: "CA116's 300SD"
   id_uppercat: 249
   dir: "CA116"
-  site_id: 1
   representative_picture_id: 4750
   uppercats: "249,257"
 -
@@ -2124,7 +1867,6 @@
   name: "Michel's 690SEL"
   id_uppercat: 249
   dir: "Michels Fun Pics"
-  site_id: 1
   representative_picture_id: 5043
   uppercats: "249,258"
 -
@@ -2132,7 +1874,6 @@
   name: "mafia"
   id_uppercat: 249
   dir: "mafia"
-  site_id: 1
   representative_picture_id: 5517
   uppercats: "249,259"
 -
@@ -2140,7 +1881,6 @@
   name: "450-73 sannerud"
   id_uppercat: 249
   dir: "450-73"
-  site_id: 1
   representative_picture_id: 4622
   uppercats: "249,260"
 -
@@ -2148,7 +1888,6 @@
   name: "Mercedes W 116 Cabriolet"
   id_uppercat: 249
   dir: "Cabriolet"
-  site_id: 1
   representative_picture_id: 4778
   uppercats: "249,261"
 -
@@ -2157,7 +1896,6 @@
   id_uppercat: 249
   comment: "Some pics of a wonderfull car<!--complete-->"
   dir: "Gleaming Beauty_001"
-  site_id: 1
   representative_picture_id: 4842
   uppercats: "249,262"
 -
@@ -2166,7 +1904,6 @@
   id_uppercat: 249
   comment: "some pictures of My 450SEL 6.9 #5440<!--complete-->"
   dir: "des450SEL69"
-  site_id: 1
   representative_picture_id: 5394
   uppercats: "249,263"
 -
@@ -2175,7 +1912,6 @@
   id_uppercat: 249
   comment: "As the title says<!--complete-->"
   dir: "Another sighting"
-  site_id: 1
   representative_picture_id: 4672
   uppercats: "249,264"
 -
@@ -2184,7 +1920,6 @@
   id_uppercat: 249
   comment: "<!--complete-->Thought I'd post some updated photos"
   dir: "AMG69 Update"
-  site_id: 1
   representative_picture_id: 4658
   uppercats: "249,265"
 -
@@ -2193,7 +1928,6 @@
   id_uppercat: 249
   comment: "my 6.9<!--complete-->My low mileage 6.9"
   dir: "nathanyork"
-  site_id: 1
   representative_picture_id: 5660
   uppercats: "249,266"
 -
@@ -2201,7 +1935,6 @@
   name: "Finished"
   id_uppercat: 249
   dir: "finished"
-  site_id: 1
   representative_picture_id: 5472
   uppercats: "249,267"
 -
@@ -2209,7 +1942,6 @@
   name: "Calssico AMG"
   id_uppercat: 249
   dir: "classico"
-  site_id: 1
   representative_picture_id: 5367
   uppercats: "249,268"
 -
@@ -2218,7 +1950,6 @@
   id_uppercat: 249
   comment: "Pics of my 6.9. It has seen better days...<!--complete-->"
   dir: "tj45069"
-  site_id: 1
   representative_picture_id: 5848
   uppercats: "249,269"
 -
@@ -2226,7 +1957,6 @@
   name: "Parcel Shelf"
   id_uppercat: 269
   dir: "pc"
-  site_id: 1
   representative_picture_id: 5885
   uppercats: "249,269,270"
 -
@@ -2234,7 +1964,6 @@
   name: "other"
   id_uppercat: 269
   dir: "other"
-  site_id: 1
   representative_picture_id: 5879
   uppercats: "249,269,271"
 -
@@ -2242,14 +1971,12 @@
   name: "oscar"
   id_uppercat: 249
   dir: "oscar"
-  site_id: 1
   uppercats: "249,272"
 -
   id: 273
   name: "remotec rims"
   id_uppercat: 272
   dir: "remotec rims"
-  site_id: 1
   representative_picture_id: 5678
   uppercats: "249,272,273"
 -
@@ -2257,7 +1984,6 @@
   name: "450SE_melbourne"
   id_uppercat: 249
   dir: "450SE_melbourne"
-  site_id: 1
   representative_picture_id: 4635
   uppercats: "249,274"
 -
@@ -2265,7 +1991,6 @@
   name: "450SEL 6.9 with Green interior, dash etc.."
   id_uppercat: 249
   dir: 1234567
-  site_id: 1
   representative_picture_id: 4501
   uppercats: "249,275"
 -
@@ -2273,7 +1998,6 @@
   name: "Gleaming Beauty"
   id_uppercat: 249
   dir: "gleaming beauty"
-  site_id: 1
   representative_picture_id: 5482
   uppercats: "249,276"
 -
@@ -2281,7 +2005,6 @@
   name: "Boris"
   id_uppercat: 249
   dir: "Boris"
-  site_id: 1
   representative_picture_id: 4724
   uppercats: "249,277"
 -
@@ -2290,7 +2013,6 @@
   id_uppercat: 249
   comment: "1976 350SE<!--complete-->"
   dir: "Found_W116_350SE"
-  site_id: 1
   representative_picture_id: 4819
   uppercats: "249,278"
 -
@@ -2298,7 +2020,6 @@
   name: "Snow 2010"
   id_uppercat: 278
   dir: "Snow_2010"
-  site_id: 1
   representative_picture_id: 4831
   uppercats: "249,278,279"
 -
@@ -2306,7 +2027,6 @@
   name: "Brian Crump"
   id_uppercat: 249
   dir: 116
-  site_id: 1
   representative_picture_id: 4455
   uppercats: "249,280"
 -
@@ -2315,7 +2035,6 @@
   id_uppercat: 249
   comment: "1978<!--complete-->"
   dir: "SkatingAndGirlsDontMix"
-  site_id: 1
   representative_picture_id: 5137
   uppercats: "249,281"
 -
@@ -2323,7 +2042,6 @@
   name: "1980 300SD Turbo Diesel"
   id_uppercat: 249
   dir: "300sd"
-  site_id: 1
   representative_picture_id: 4582
   uppercats: "249,282"
 -
@@ -2332,7 +2050,6 @@
   id_uppercat: 249
   comment: "280SE Concourse<!--complete-->My 280SE ready for Concourse"
   dir: "280SE"
-  site_id: 1
   uppercats: "249,283"
 -
   id: 284
@@ -2340,7 +2057,6 @@
   id_uppercat: 249
   comment: "Recent Purchase<!--complete-->My new 450SEL"
   dir: "1978 450SEL"
-  site_id: 1
   representative_picture_id: 4545
   uppercats: "249,284"
 -
@@ -2349,7 +2065,6 @@
   id_uppercat: 249
   comment: "Some pictures, Unfortunatly, the car is dirty<!--complete-->Proof the car actually does exist! It was even driven today"
   dir: "BigRichard"
-  site_id: 1
   representative_picture_id: 4705
   uppercats: "249,285"
 -
@@ -2357,7 +2072,6 @@
   name: "Mercedes 450 SE  1977"
   id_uppercat: 249
   dir: "450 SE   1977"
-  site_id: 1
   representative_picture_id: 4614
   uppercats: "249,286"
 -
@@ -2366,7 +2080,6 @@
   id_uppercat: 249
   comment: "maybe I'll be able to find them now<!--complete-->"
   dir: "jjccp"
-  site_id: 1
   representative_picture_id: 5498
   uppercats: "249,287"
 -
@@ -2375,7 +2088,6 @@
   id_uppercat: 249
   comment: "W116 450sel 1974 black<!--complete-->"
   dir: "Armans450sel"
-  site_id: 1
   representative_picture_id: 4698
   uppercats: "249,288"
 -
@@ -2384,7 +2096,6 @@
   id_uppercat: 249
   comment: "<!--complete-->my first M100"
   dir: "szyki"
-  site_id: 1
   representative_picture_id: 5782
   uppercats: "249,289"
 -
@@ -2392,7 +2103,6 @@
   name: "Mapmuppet's 6.9"
   id_uppercat: 249
   dir: "Mapmuppet"
-  site_id: 1
   representative_picture_id: 4986
   uppercats: "249,290"
 -
@@ -2400,7 +2110,6 @@
   name: "Modified"
   id_uppercat: 249
   dir: "modified"
-  site_id: 1
   representative_picture_id: 5653
   uppercats: "249,291"
 -
@@ -2408,7 +2117,6 @@
   name: "oscars"
   id_uppercat: 249
   dir: "oscars"
-  site_id: 1
   representative_picture_id: 5686
   uppercats: "249,292"
 -
@@ -2416,7 +2124,6 @@
   name: "mercs in Italy"
   id_uppercat: 292
   dir: "mercs in Italy"
-  site_id: 1
   representative_picture_id: 5712
   uppercats: "249,292,293"
 -
@@ -2424,7 +2131,6 @@
   name: "Shannons German Autofest 2006"
   id_uppercat: 292
   dir: "Shannons German Autofest 2006"
-  site_id: 1
   representative_picture_id: 5690
   uppercats: "249,292,294"
 -
@@ -2432,7 +2138,6 @@
   name: "misc"
   id_uppercat: 292
   dir: "misc"
-  site_id: 1
   representative_picture_id: 5717
   uppercats: "249,292,295"
 -
@@ -2440,7 +2145,6 @@
   name: "280S"
   id_uppercat: 292
   dir: "280S"
-  site_id: 1
   representative_picture_id: 5683
   uppercats: "249,292,296"
 -
@@ -2448,7 +2152,6 @@
   name: "SA PR 1107"
   id_uppercat: 249
   dir: "SA PR 1107"
-  site_id: 1
   representative_picture_id: 5132
   uppercats: "249,297"
 -
@@ -2457,7 +2160,6 @@
   id_uppercat: 249
   comment: "The end of the line for a W116<!--complete-->"
   dir: "scrap"
-  site_id: 1
   representative_picture_id: 5738
   uppercats: "249,298"
 -
@@ -2465,7 +2167,6 @@
   name: "1977 280SE Aus Milan Brown"
   id_uppercat: 249
   dir: "djenka018"
-  site_id: 1
   representative_picture_id: 5463
   uppercats: "249,299"
 -
@@ -2474,7 +2175,6 @@
   id_uppercat: 249
   comment: "450SEL 6.9 AMG<!--complete-->MB Classic Centre 450SEL 6.9 AMG"
   dir: "classic_centre"
-  site_id: 1
   representative_picture_id: 5357
   uppercats: "249,300"
 -
@@ -2483,7 +2183,6 @@
   id_uppercat: 249
   comment: "pictures of my W116<!--complete-->I will try and keep a decent picture diary of work done towards weekend driver mode."
   dir: "My 280S"
-  site_id: 1
   representative_picture_id: 5058
   uppercats: "249,301"
 -
@@ -2492,7 +2191,6 @@
   id_uppercat: 249
   comment: "280,000 kms One family from 79-2011<!--complete-->Bought in March 2011 from the grandson of the original purchaser. Only modification is removal of self-leveling rear suspension system and replacement with new coils and shocks."
   dir: "merc"
-  site_id: 1
   representative_picture_id: 5639
   uppercats: "249,302"
 -
@@ -2500,7 +2198,6 @@
   name: "fritz"
   id_uppercat: 249
   dir: "fritz"
-  site_id: 1
   representative_picture_id: 5473
   uppercats: "249,303"
 -
@@ -2509,7 +2206,6 @@
   id_uppercat: 249
   comment: "Classic White 230E ... 600AUD<!--complete-->"
   dir: "ponton_w123"
-  site_id: 1
   uppercats: "249,304"
 -
   id: 305
@@ -2517,7 +2213,6 @@
   id_uppercat: 249
   comment: "A Deutsch Engineering Masterpiece with a French Name<!--complete-->my first classic car, without any blood &amp; sweat spilled at all.  Previous owner spent a fortune shipping it from HK to MB Germany (2000-2003) to restore the glory of this beauty.  Colour was Blue/Blue but now Grey/Grey (my kind of colour anyway).  "
   dir: "GRIS"
-  site_id: 1
   representative_picture_id: 4837
   uppercats: "249,305"
 -
@@ -2526,7 +2221,6 @@
   id_uppercat: 249
   comment: "Interiors<!--complete-->Interiors"
   dir: "Interiors"
-  site_id: 1
   representative_picture_id: 4929
   uppercats: "249,306"
 -
@@ -2535,7 +2229,6 @@
   id_uppercat: 249
   comment: "My '76 350SE<!--complete-->My first Mercedes, a very original 1976 350SE with only 31,000 miles up when I bought it in Aug 2010. After some under-sealing and new tyres, she's ready for some summer driving."
   dir: "1976_350SE_in_Silver_Green"
-  site_id: 1
   representative_picture_id: 4539
   uppercats: "249,307"
 -
@@ -2544,7 +2237,6 @@
   id_uppercat: 249
   comment: "BETSY'S CAR<!--complete-->"
   dir: "BETSY"
-  site_id: 1
   representative_picture_id: 4701
   uppercats: "249,308"
 -
@@ -2553,7 +2245,6 @@
   id_uppercat: 249
   comment: "Sharing some photos of the cars in my life.<!--complete-->"
   dir: "Mercedes Fleet"
-  site_id: 1
   representative_picture_id: 5015
   uppercats: "249,309"
 -
@@ -2562,7 +2253,6 @@
   id_uppercat: 249
   comment: "this album shows my w116 20 years ago when i was 3<!--complete-->this album shows my w116 20 years ago when i was 3 and of the car now (owned by me)"
   dir: "Archive"
-  site_id: 1
   representative_picture_id: 4675
   uppercats: "249,310"
 -
@@ -2570,7 +2260,6 @@
   name: "A 6.9 parked in Bondi Junction (Sydney)"
   id_uppercat: 249
   dir: "690 at Bondi Junction"
-  site_id: 1
   representative_picture_id: 4646
   uppercats: "249,311"
 -
@@ -2579,7 +2268,6 @@
   id_uppercat: 249
   comment: "My 1980 450SEL 6.9<!--complete-->"
   dir: "smallmerc"
-  site_id: 1
   representative_picture_id: 5743
   uppercats: "249,312"
 -
@@ -2587,7 +2275,6 @@
   name: "up2speed's 1974 450SE"
   id_uppercat: 249
   dir: "up2speed"
-  site_id: 1
   representative_picture_id: 5963
   uppercats: "249,313"
 -
@@ -2595,7 +2282,6 @@
   name: "Michel's 280SE"
   id_uppercat: 249
   dir: "Michels 280SE"
-  site_id: 1
   representative_picture_id: 5028
   uppercats: "249,314"
 -
@@ -2604,7 +2290,6 @@
   id_uppercat: 249
   comment: "WIP on 350<!--complete-->The rims are FONDMETAL 8jx16 ET11 and fit quite well, obviously designed for S classes of the era."
   dir: "350SE"
-  site_id: 1
   representative_picture_id: 4602
   uppercats: "249,315"
 -
@@ -2613,7 +2298,6 @@
   id_uppercat: 249
   comment: "1975 280S White<!--complete-->ZAR 1975 280S White. This car was unfortunately stolen in 2014, but I am keeping the pics of her up here so she is not forgotten!"
   dir: "1975 280S"
-  site_id: 1
   representative_picture_id: 4523
   uppercats: "249,316"
 -
@@ -2621,7 +2305,6 @@
   name: "6point9"
   id_uppercat: 249
   dir: "6point9"
-  site_id: 1
   representative_picture_id: 4650
   uppercats: "249,317"
 -
@@ -2630,7 +2313,6 @@
   id_uppercat: 249
   comment: "<!--complete-->AMG 7.2"
   dir: "amg 7_2"
-  site_id: 1
   representative_picture_id: 5271
   uppercats: "249,318"
 -
@@ -2638,7 +2320,6 @@
   name: "Michel's 6.9"
   id_uppercat: 249
   dir: "M-Benz-6_9"
-  site_id: 1
   representative_picture_id: 4950
   uppercats: "249,319"
 -
@@ -2646,7 +2327,6 @@
   name: "Michel's other 6.9"
   id_uppercat: 319
   dir: "Michels other 6_9"
-  site_id: 1
   representative_picture_id: 4945
   uppercats: "249,319,320"
 -
@@ -2655,7 +2335,6 @@
   id_uppercat: 249
   comment: "Unrestored &amp; pristine.<!--complete-->A very clean 78 I picked up recently. Almost perfect in every way."
   dir: 618
-  site_id: 1
   representative_picture_id: 4645
   uppercats: "249,321"
 -
@@ -2663,7 +2342,6 @@
   name: "up2speed's new AMG wheels and spoiler"
   id_uppercat: 249
   dir: "Latest_450SE_pics"
-  site_id: 1
   representative_picture_id: 4936
   uppercats: "249,322"
 -
@@ -2671,7 +2349,6 @@
   name: "W116 350SE '72"
   id_uppercat: 249
   dir: "w116"
-  site_id: 1
   representative_picture_id: 5970
   uppercats: "249,323"
 -
@@ -2680,7 +2357,6 @@
   id_uppercat: 249
   comment: "<!--complete-->A completely original example, with just 13,000 miles from new and one owner from two months old. This Mercedes Benz 450 SEL has a full service history from the supplying dealer, Mercedes Benz of Bristol."
   dir: "hairpin"
-  site_id: 1
   representative_picture_id: 5490
   uppercats: "249,324"
 -
@@ -2689,14 +2365,12 @@
   id_uppercat: 249
   comment: "My Wife<!--complete-->Full Set"
   dir: "280S"
-  site_id: 1
   uppercats: "249,325"
 -
   id: 326
   name: "behrthermostat"
   id_uppercat: 249
   dir: "behrthermostat"
-  site_id: 1
   representative_picture_id: 5276
   uppercats: "249,326"
 -
@@ -2704,7 +2378,6 @@
   name: "Raptelan's 1977 450SEL"
   id_uppercat: 249
   dir: "raptelan450SEL"
-  site_id: 1
   representative_picture_id: 5736
   uppercats: "249,327"
 -
@@ -2712,7 +2385,6 @@
   name: "Raftel's new 6.9"
   id_uppercat: 249
   dir: "raftel"
-  site_id: 1
   representative_picture_id: 5725
   uppercats: "249,328"
 -
@@ -2720,7 +2392,6 @@
   name: "TJ's 280S"
   id_uppercat: 249
   dir: "tj450280sint"
-  site_id: 1
   representative_picture_id: 5836
   uppercats: "249,329"
 -
@@ -2729,7 +2400,6 @@
   id_uppercat: 249
   comment: "Photos of 450 SEL<!--complete-->"
   dir: "HiYoSilver"
-  site_id: 1
   representative_picture_id: 4863
   uppercats: "249,330"
 -
@@ -2738,7 +2408,6 @@
   id_uppercat: 249
   comment: "1978 280 SEL W116<!--complete-->My Magic &quot;Old Timer&quot; 1978 280 SEL W116 in perfect condition.Owned for 1 year 360,000 Klms and running like a Dream."
   dir: "WaltsPics"
-  site_id: 1
   representative_picture_id: 5235
   uppercats: "249,331"
 -
@@ -2747,7 +2416,6 @@
   id_uppercat: 249
   comment: "Mercedes 6.9<!--complete-->"
   dir: "MercedesMike"
-  site_id: 1
   representative_picture_id: 5022
   uppercats: "249,332"
 -
@@ -2755,7 +2423,6 @@
   name: "FS 1978 MB 6.9"
   id_uppercat: 249
   dir: "1978MB6.9"
-  site_id: 1
   representative_picture_id: 4550
   uppercats: "249,333"
 -
@@ -2763,7 +2430,6 @@
   name: "Papalongi's 450 SEL"
   id_uppercat: 249
   dir: "papalongi"
-  site_id: 1
   representative_picture_id: 5720
   uppercats: "249,334"
 -
@@ -2771,7 +2437,6 @@
   name: "500eguy"
   id_uppercat: 249
   dir: "500eguy"
-  site_id: 1
   representative_picture_id: 4641
   uppercats: "249,335"
 -
@@ -2779,7 +2444,6 @@
   name: "TJ 450's 450SEL"
   id_uppercat: 249
   dir: "TJ_450"
-  site_id: 1
   representative_picture_id: 5194
   uppercats: "249,336"
 -
@@ -2787,7 +2451,6 @@
   name: "Ryan's second 116036"
   id_uppercat: 249
   dir: "116036 no2"
-  site_id: 1
   representative_picture_id: 4465
   uppercats: "249,337"
 -
@@ -2796,7 +2459,6 @@
   id_uppercat: 249
   comment: "<!--complete-->Stunning 1979 280SE very straight and original no rust, no accidents, This car is for sale @$3,500 no longer reqired."
   dir: "Blue 280SE"
-  site_id: 1
   representative_picture_id: 4718
   uppercats: "249,338"
 -
@@ -2805,7 +2467,6 @@
   id_uppercat: 249
   comment: "renovation period W116 280SE<!--complete-->1976 280 S"
   dir: "tk"
-  site_id: 1
   representative_picture_id: 5935
   uppercats: "249,339"
 -
@@ -2814,7 +2475,6 @@
   id_uppercat: 249
   comment: "New 6.9<!--complete-->"
   dir: 004
-  site_id: 1
   representative_picture_id: 4416
   uppercats: "249,340"
 -
@@ -2823,7 +2483,6 @@
   id_uppercat: 249
   comment: "This Car For Sale<!--complete-->"
   dir: "116small"
-  site_id: 1
   representative_picture_id: 4487
   uppercats: "249,341"
 -
@@ -2832,7 +2491,6 @@
   id_uppercat: 249
   comment: "My pride and joy(s)<!--complete-->"
   dir: "Ryan_showroom"
-  site_id: 1
   representative_picture_id: 5122
   uppercats: "249,342"
 -
@@ -2841,7 +2499,6 @@
   id_uppercat: 249
   comment: "These are pics of a 1978 280 sel paid au$550.00<!--complete-->Has traveled 354,340 klms and is rust free a few surface spots in boot and under seat but thats all I could find .Has a dents in rear doors not bad one small one on one side and bit bigger on the other rest of the body is great paint could be better but ok for age. \r\n  Inside is good needs door trims sun faded and small cracks on top and a little touch up here and there to look like new again."
   dir: "merc 78 280sel"
-  site_id: 1
   representative_picture_id: 5604
   uppercats: "249,343"
 -
@@ -2850,7 +2507,6 @@
   id_uppercat: 343
   comment: "more pics <!--complete-->"
   dir: "part 2"
-  site_id: 1
   uppercats: "249,343,344"
 -
   id: 345
@@ -2858,7 +2514,6 @@
   id_uppercat: 249
   comment: "Pics of my 280S<!--complete-->"
   dir: "tj280s"
-  site_id: 1
   representative_picture_id: 5819
   uppercats: "249,345"
 -
@@ -2866,7 +2521,6 @@
   name: "Projects"
   id_uppercat: 345
   dir: "proj"
-  site_id: 1
   representative_picture_id: 5823
   uppercats: "249,345,346"
 -
@@ -2874,7 +2528,6 @@
   name: "collin380"
   id_uppercat: 249
   dir: "collin380"
-  site_id: 1
   representative_picture_id: 5374
   uppercats: "249,347"
 -
@@ -2883,7 +2536,6 @@
   id_uppercat: 249
   comment: "Pre Purchase Inspection<!--complete-->"
   dir: "W116_73_280S"
-  site_id: 1
   representative_picture_id: 5229
   uppercats: "249,348"
 -
@@ -2891,7 +2543,6 @@
   name: "big blue whale"
   id_uppercat: 249
   dir: "big blue whale"
-  site_id: 1
   uppercats: "249,349"
 -
   id: 350
@@ -2899,7 +2550,6 @@
   id_uppercat: 249
   comment: "Just a few pics of my 1977 280SE.<!--complete-->"
   dir: "TheMercedes"
-  site_id: 1
   representative_picture_id: 5213
   uppercats: "249,350"
 -
@@ -2907,7 +2557,6 @@
   name: "Blue 126-260SE"
   id_uppercat: 249
   dir: "Blue 126"
-  site_id: 1
   representative_picture_id: 4709
   uppercats: "249,351"
 -
@@ -2915,7 +2564,6 @@
   name: "My '74 280se"
   id_uppercat: 249
   dir: "w116_280se"
-  site_id: 1
   representative_picture_id: 5989
   uppercats: "249,352"
 -
@@ -2924,7 +2572,6 @@
   id_uppercat: 249
   comment: "My baby<!--complete-->"
   dir: "Mellow yellow"
-  site_id: 1
   representative_picture_id: 5002
   uppercats: "249,353"
 -
@@ -2933,7 +2580,6 @@
   id_uppercat: 249
   comment: "Many more to come...<!--complete-->"
   dir: "In the Stable"
-  site_id: 1
   representative_picture_id: 4919
   uppercats: "249,354"
 -
@@ -2941,7 +2587,6 @@
   name: "MacGeek's 1979 300SD"
   id_uppercat: 249
   dir: "macgeek"
-  site_id: 1
   representative_picture_id: 5506
   uppercats: "249,355"
 -
@@ -2949,7 +2594,6 @@
   name: "TJ - 280SE Project"
   id_uppercat: 249
   dir: "tj280"
-  site_id: 1
   representative_picture_id: 5785
   uppercats: "249,356"
 -
@@ -2958,7 +2602,6 @@
   id_uppercat: 249
   comment: "Brooklands 116 day<!--complete-->Brooklands 116 day"
   dir: "Brooklands 116 day"
-  site_id: 1
   representative_picture_id: 4732
   uppercats: "249,357"
 -
@@ -2966,7 +2609,6 @@
   name: "Oliver 450SEL"
   id_uppercat: 249
   dir: "WDB11603312000045"
-  site_id: 1
   representative_picture_id: 5230
   uppercats: "249,358"
 -
@@ -2975,7 +2617,6 @@
   id_uppercat: 249
   comment: "First pix of my not so new 6.9<!--complete-->It's 2007 and I thought that may be it's about time I bought a digital camera. So naturally the first pix I took are of my beloved 6.9. In summary it's number 2062 off the production line, was made in 1977 and shipped to Hong Kong. There it served a top barrister. In 1997 it came with him to UK and languished in a stable together with race horses. In 2002 I took ownership from the original owner. I have done no major reconditioning although there is always something that's being fixed or worked on. Amazing machine."
   dir: "adamb"
-  site_id: 1
   representative_picture_id: 5242
   uppercats: "249,359"
 -
@@ -2983,7 +2624,6 @@
   name: "Showroom"
   id_uppercat: 359
   dir: "showroom"
-  site_id: 1
   representative_picture_id: 5266
   uppercats: "249,359,360"
 -
@@ -2992,7 +2632,6 @@
   id_uppercat: 359
   comment: "Body restore<!--complete-->"
   dir: "restoration"
-  site_id: 1
   representative_picture_id: 5245
   uppercats: "249,359,361"
 -
@@ -3000,7 +2639,6 @@
   name: "Winter Frost"
   id_uppercat: 359
   dir: "winterfrost"
-  site_id: 1
   representative_picture_id: 5268
   uppercats: "249,359,362"
 -
@@ -3009,7 +2647,6 @@
   id_uppercat: 249
   comment: "Some nicely posed photographs<!--complete-->At the expense of selling my 126 I managed to acquire a rust free, low mileage 450 sel... A car I've been after for a long time.."
   dir: "SteamWorks 450sel"
-  site_id: 1
   representative_picture_id: 5162
   uppercats: "249,363"
 -
@@ -3017,7 +2654,6 @@
   name: "Drive"
   comment: "W116 Adventures<!--complete-->Location shots\r\n<br><br>\r\nWhere the scenery counts"
   dir: "drive"
-  site_id: 1
   representative_picture_id: 57
   uppercats: 364
 -
@@ -3026,7 +2662,6 @@
   id_uppercat: 364
   comment: "Silberdistel W123<!--complete-->W123 around the Danube"
   dir: "JCs_W123"
-  site_id: 1
   representative_picture_id: 79
   uppercats: "364,365"
 -
@@ -3034,7 +2669,6 @@
   name: "feeler"
   id_uppercat: 364
   dir: "ramz"
-  site_id: 1
   representative_picture_id: 500
   uppercats: "364,366"
 -
@@ -3043,7 +2677,6 @@
   id_uppercat: 364
   comment: "Low mileage 280S<!--complete-->This is my 1975 280S in Bahrain, kept in air conditioned storage for most of its life it has just 12,000 km from new.  Absolutely zero rust and perfect interior.  She drives like a new car."
   dir: "Rewind_1975_280S"
-  site_id: 1
   representative_picture_id: 334
   uppercats: "364,367"
 -
@@ -3052,7 +2685,6 @@
   id_uppercat: 364
   comment: "Salzburg Classic Days 2005<!--complete-->"
   dir: "salzburg"
-  site_id: 1
   representative_picture_id: 505
   uppercats: "364,368"
 -
@@ -3060,14 +2692,12 @@
   name: "big blue whale"
   id_uppercat: 364
   dir: "big blue whale"
-  site_id: 1
   uppercats: "364,369"
 -
   id: 370
   name: "South African 116 get-to-gethers"
   id_uppercat: 364
   dir: "south african GTG"
-  site_id: 1
   representative_picture_id: 530
   uppercats: "364,370"
 -
@@ -3076,7 +2706,6 @@
   id_uppercat: 364
   comment: "Pictures of my 350 SEL<!--complete-->Pictures of my 1978 350 SEL 4-speed Manual in pristine condition"
   dir: "W116350SEL"
-  site_id: 1
   representative_picture_id: 475
   uppercats: "364,371"
 -
@@ -3084,7 +2713,6 @@
   name: "Family outing 1983"
   id_uppercat: 364
   dir: 1983
-  site_id: 1
   representative_picture_id: 32
   uppercats: "364,372"
 -
@@ -3093,7 +2721,6 @@
   id_uppercat: 364
   comment: "Shots of 116.025's '78 350SE<!--complete-->Pictures from the trip to pick up my 350SE and some other pictures I shot of it later."
   dir: "RoadTripPics"
-  site_id: 1
   representative_picture_id: 343
   uppercats: "364,373"
 -
@@ -3102,7 +2729,6 @@
   id_uppercat: 364
   comment: "Photos from some of the many W116 trips I've taken in South Africa in the last 10 years<!--complete-->"
   dir: "Ryan"
-  site_id: 1
   representative_picture_id: 355
   uppercats: "364,374"
 -
@@ -3110,7 +2736,6 @@
   name: "To London"
   id_uppercat: 364
   dir: "ToLondon"
-  site_id: 1
   representative_picture_id: 472
   uppercats: "364,375"
 -
@@ -3119,7 +2744,6 @@
   id_uppercat: 364
   comment: "Salzburg Classic Days 2005<!--complete-->"
   dir: "salzburg2"
-  site_id: 1
   representative_picture_id: 526
   uppercats: "364,376"
 -
@@ -3128,7 +2752,6 @@
   id_uppercat: 364
   comment: "Recent pictures of my W116s.<!--complete-->"
   dir: "toodyay"
-  site_id: 1
   representative_picture_id: 533
   uppercats: "364,377"
 -
@@ -3137,7 +2760,6 @@
   id_uppercat: 364
   comment: "Latest Pictures Of My Project<!--complete-->"
   dir: "75W116"
-  site_id: 1
   representative_picture_id: 40
   uppercats: "364,378"
 -
@@ -3145,7 +2767,6 @@
   name: "My 350se"
   id_uppercat: 364
   dir: "My-350SE"
-  site_id: 1
   representative_picture_id: 327
   uppercats: "364,379"
 -
@@ -3153,7 +2774,6 @@
   name: "January Drive"
   id_uppercat: 364
   dir: "January Drive"
-  site_id: 1
   representative_picture_id: 86
   uppercats: "364,380"
 -
@@ -3161,7 +2781,6 @@
   name: "bowral"
   id_uppercat: 380
   dir: "Bowral"
-  site_id: 1
   representative_picture_id: 84
   uppercats: "364,380,381"
 -
@@ -3169,7 +2788,6 @@
   name: "RaceCam"
   id_uppercat: 380
   dir: "racecam"
-  site_id: 1
   representative_picture_id: 88
   uppercats: "364,380,382"
 -
@@ -3177,7 +2795,6 @@
   name: "Maat's W116"
   id_uppercat: 364
   dir: "My_W116"
-  site_id: 1
   representative_picture_id: 330
   uppercats: "364,383"
 -
@@ -3186,7 +2803,6 @@
   id_uppercat: 364
   comment: "Ramsey's auto<!--complete-->"
   dir: "Yesmar ramseY"
-  site_id: 1
   representative_picture_id: 484
   uppercats: "364,384"
 -
@@ -3194,7 +2810,6 @@
   name: "South African MBCSA meeting 2007"
   id_uppercat: 364
   dir: "South African Club meeting 2007"
-  site_id: 1
   representative_picture_id: 452
   uppercats: "364,385"
 -
@@ -3202,7 +2817,6 @@
   name: "280S Papirus Weiss "
   id_uppercat: 364
   dir: "w116"
-  site_id: 1
   representative_picture_id: 549
   uppercats: "364,386"
 -
@@ -3211,7 +2825,6 @@
   id_uppercat: 364
   comment: "My 450SE<!--complete-->My 450SE"
   dir: "My 450SE"
-  site_id: 1
   representative_picture_id: 324
   uppercats: "364,387"
 -
@@ -3220,7 +2833,6 @@
   id_uppercat: 364
   comment: "Gavin116's Benz<!--complete-->1979 450SE classic white"
   dir: "Mrs White"
-  site_id: 1
   representative_picture_id: 264
   uppercats: "364,388"
 -
@@ -3229,7 +2841,6 @@
   id_uppercat: 364
   comment: "where w116 can be free<!--complete-->where we and the w116 can be free"
   dir: "andrew116"
-  site_id: 1
   representative_picture_id: 487
   uppercats: "364,389"
   global_rank: 3.15
