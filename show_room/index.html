@@ -15,16 +15,15 @@ lead: "1972-1980: 280S 280SE 300SD 450SE 450SEL"
             </div>
             <div class="additional_info"> Be proud <br><br> It's all about the details </div>
             <ul class="thumbnails" id="thumbnails">
-            {% for image in site.data.images %}
-            {% if image.storage_category_id == 249 %}
+            {% for image in site.data.images -%}
+            {%- if image.storage_category_id == 249 -%}
                 <li>
                     <a href="{{site.cdn}}{{image.path}}{{image.file}}{{image.ext}}">
                         <img src="{{site.cdn}}/i{{image.path}}{{image.file}}-sq{{image.ext}}" alt="{{image.name}}" title="{{image.comment}}">
                     </a>
                 </li>
-            {% else %}
-            {% endif %}
-            {% endfor %}
+            {%- endif -%}
+            {%- endfor %}
             </ul>
         </div>
     </div>
