@@ -1687,7 +1687,7 @@
   id_uppercat: 232
   dir: "black_w124"
   representative_picture_id: 702
-  uppercats: "232,233"
+  uppercats: "-232,233"
 -
   id: 234
   name: "Junk Yard"
