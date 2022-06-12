@@ -1,5 +1,5 @@
 {% for album in site.data.categories -%}
-{% if album.uppercats[1] == page.category -%}
+{% if album.uppercats[0] == page.category -%}
         <div class="card album">
             <div class="card-header">
                 {{album.name}}
