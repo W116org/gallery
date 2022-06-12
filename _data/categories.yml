@@ -157,21 +157,21 @@
   name: "Clutch K1"
   id_uppercat: 21
   dir: "k1"
-  uppercats: 1,9,21,22
+  uppercats: 1, 9, 21, 22
 -
   id: 23
   name: "Valve Body"
   id_uppercat: 21
   dir: "vb"
   representative_picture_id: 4294
-  uppercats: 1,9,21,23
+  uppercats: 1, 9, 21, 23
 -
   id: 24
   name: "Engine removal and installation"
   id_uppercat: 21
   dir: "engine removal"
   representative_picture_id: 4251
-  uppercats: 1,9,21,24
+  uppercats: 1, 9, 21, 24
 -
   id: 25
   name: "Clutch K2"
@@ -179,21 +179,21 @@
   comment: "Clutch K2"
   dir: "k2"
   representative_picture_id: 4282
-  uppercats: 1,9,21,25
+  uppercats: 1, 9, 21, 25
 -
   id: 26
   name: "Assembly"
   id_uppercat: 21
   dir: "assy"
   representative_picture_id: 4230
-  uppercats: 1,9,21,26
+  uppercats: 1, 9, 21, 26
 -
   id: 27
   name: "Practice Valve Body"
   id_uppercat: 21
   dir: "vlvbdy"
   representative_picture_id: 4303
-  uppercats: 1,9,21,27
+  uppercats: 1, 9, 21, 27
 -
   id: 28
   name: "Gear Assembly"
@@ -201,7 +201,7 @@
   comment: "Gear Assembly"
   dir: "gear"
   representative_picture_id: 4275
-  uppercats: 1,9,21,28
+  uppercats: 1, 9, 21, 28
 -
   id: 29
   name: "Paint Job Prep"
@@ -902,7 +902,7 @@
   id_uppercat: 124
   dir: "manifold gauge hoses and fittings"
   representative_picture_id: 3022
-  uppercats: 1,118,124,125
+  uppercats: 1, 118, 124, 125
 -
   id: 126
   name: "vacuum advance"
@@ -1029,14 +1029,14 @@
   id_uppercat: 142
   dir: "kneep pad clips"
   representative_picture_id: 3269
-  uppercats: 1,118,142,143
+  uppercats: 1, 118, 142, 143
 -
   id: 144
   name: "floor mats"
   id_uppercat: 142
   dir: "mat"
   representative_picture_id: 3275
-  uppercats: 1,118,142,144
+  uppercats: 1, 118, 142, 144
 -
   id: 145
   name: "refinishing zebrano trim"
@@ -1057,7 +1057,7 @@
   id_uppercat: 146
   dir: "upholstery"
   representative_picture_id: 3289
-  uppercats: 1,118,146,147
+  uppercats: 1, 118, 146, 147
 -
   id: 148
   name: "Height Adjustment Handle Replacement"
@@ -1091,7 +1091,7 @@
   id_uppercat: 151
   dir: "reservoir sensors"
   representative_picture_id: 3086
-  uppercats: 1,118,151,152
+  uppercats: 1, 118, 151, 152
 -
   id: 153
   name: "steering wheels"
@@ -1118,14 +1118,14 @@
   name: "beckers"
   id_uppercat: 155
   dir: "beckers"
-  uppercats: 1,118,155,156
+  uppercats: 1, 118, 155, 156
 -
   id: 157
   name: "beckers"
   id_uppercat: 155
   dir: "beckers_001"
   representative_picture_id: 3060
-  uppercats: 1,118,155,157
+  uppercats: 1, 118, 155, 157
 -
   id: 158
   name: "450SEL 5.0ltr"
