@@ -5,19 +5,13 @@ permalink: /drive/
 title: "W116 Gallery"
 subtitle: "Drive"
 lead: "Location shots <br> Where the scenery counts"
+
+Category: 364
 ---
 
 <div class="row">
     <div class="col">
         {% include crumbs.html %}
-        <div id="album" class="album">
-            <div class="thumbnails" id="thumbnails">
-            {% for image in site.data.images -%}
-            {% if image.storage_category_id == 364 -%}
-                <a href="{{site.cdn}}{{image.path}}{{image.file}}{{image.ext}}"><img class="img-thumbnail" src="{{site.cdn}}/i{{image.path}}{{image.file}}-sq{{image.ext}}" alt="{{image.name}}" title="{{image.comment}}" loading=lazy></a>
-            {% endif -%}
-            {% endfor -%}
-            </div>
-        </div>
+        {% include thumbs.html %}
     </div>
 </div><!-- /.row -->
