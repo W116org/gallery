@@ -1732,7 +1732,7 @@
   id_uppercat: 232
   comment: "Drag Racing movies<br>Drag Racing movies"
   dir: "drag_race"
-  uppercats: [-232,239]
+  uppercats: [232,239]
 -
   id: 240
   name: "W116 in the movies"
