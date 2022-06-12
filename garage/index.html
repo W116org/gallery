@@ -3,15 +3,14 @@ layout: default
 permalink: /garage/
 
 title: "W116 Gallery"
-subtitle: "Mercedes-Benz S-Class W116"
-lead: "1972-1980: 280S 280SE 300SD 450SE 450SEL"
+subtitle: "Garage"
+lead: "Projects &amp; Parts"
 ---
 
 <div class="row">
     <div class="col">
         <div id="album" class="album">
             {% include crumbs.html %}
-            <h4> Projects <br> Parts </h4>
             <div class="thumbnails" id="thumbnails">
             {% for image in site.data.images -%}
             {% if image.storage_category_id == 1 -%}
