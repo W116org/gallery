@@ -6550,7 +6550,7 @@
   width: 450
   height: 273
   path: "/fun/Ryan/"
-  storage_category_id: 236
+  storage_category_id: -236
 -
   id: 676
   file: "BMW_truck_Nov06"
@@ -6560,7 +6560,7 @@
   width: 640
   height: 480
   path: "/fun/Ryan/"
-  storage_category_id: 236
+  storage_category_id: -236
 -
   id: 677
   file: "BMW_truckb_Nov06"
@@ -6570,7 +6570,7 @@
   width: 640
   height: 480
   path: "/fun/Ryan/"
-  storage_category_id: 236
+  storage_category_id: -236
 -
   id: 678
   file: "outomaties"
@@ -6580,7 +6580,7 @@
   width: 640
   height: 480
   path: "/fun/Ryan/"
-  storage_category_id: 236
+  storage_category_id: -236
 -
   id: 679
   file: "SMALL_46"
@@ -6895,7 +6895,7 @@
   width: 1024
   height: 768
   path: "/fun/bombs/"
-  storage_category_id: 238
+  storage_category_id: -238
 -
   id: 713
   file: "IMG_0119"
@@ -6904,7 +6904,7 @@
   width: 1600
   height: 1200
   path: "/fun/caseys_toys/"
-  storage_category_id: 241
+  storage_category_id: -241
 -
   id: 714
   file: "IMG_0120"
@@ -6913,7 +6913,7 @@
   width: 1600
   height: 1200
   path: "/fun/caseys_toys/"
-  storage_category_id: 241
+  storage_category_id: -241
 -
   id: 715
   file: "IMG_0121"
@@ -6922,7 +6922,7 @@
   width: 1600
   height: 1200
   path: "/fun/caseys_toys/"
-  storage_category_id: 241
+  storage_category_id: -241
 -
   id: 716
   file: "IMG_0122"
@@ -6931,7 +6931,7 @@
   width: 1600
   height: 1200
   path: "/fun/caseys_toys/"
-  storage_category_id: 241
+  storage_category_id: -241
 -
   id: 717
   file: "clock"
@@ -6977,7 +6977,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 722
   file: "GTa1 _Large_"
@@ -6986,7 +6986,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 723
   file: "GTa2 _Large_"
@@ -6995,7 +6995,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 724
   file: "GTa3 _Large_"
@@ -7004,7 +7004,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 725
   file: "GTa4 _Large_"
@@ -7013,7 +7013,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 726
   file: "GTa5 _Large_"
@@ -7022,7 +7022,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 727
   file: "GTa6 _Large_"
@@ -7031,7 +7031,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 728
   file: "GTa7 _Large_"
@@ -7040,7 +7040,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 729
   file: "GTa8 _Large_"
@@ -7049,7 +7049,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 730
   file: "GTa9 _Large_"
@@ -7058,7 +7058,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 731
   file: "GTa99 _Large_"
@@ -7067,7 +7067,7 @@
   width: 1024
   height: 819
   path: "/fun/example/"
-  storage_category_id: 245
+  storage_category_id: -245
 -
   id: 732
   file: "family1024x862_0"
@@ -7142,7 +7142,7 @@
   width: 804
   height: 601
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 740
   file: "Add Album"
@@ -7152,7 +7152,7 @@
   width: 588
   height: 448
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 741
   file: "Add items screen"
@@ -7162,7 +7162,7 @@
   width: 1439
   height: 899
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 742
   file: "Adjusting the photo size_001"
@@ -7172,7 +7172,7 @@
   width: 586
   height: 493
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 743
   file: "Assessing image size"
@@ -7182,7 +7182,7 @@
   width: 799
   height: 477
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 744
   file: "Caption completed_001"
@@ -7192,7 +7192,7 @@
   width: 1439
   height: 899
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 745
   file: "Choose a topic section"
@@ -7202,7 +7202,7 @@
   width: 1438
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 746
   file: "Choosing photo from the desktop"
@@ -7212,7 +7212,7 @@
   width: 1439
   height: 899
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 747
   file: "Completed album details"
@@ -7222,7 +7222,7 @@
   width: 1440
   height: 898
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 748
   file: "Confirmation screen"
@@ -7232,7 +7232,7 @@
   width: 1440
   height: 899
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 749
   file: "Copy the relevant link"
@@ -7242,7 +7242,7 @@
   width: 1440
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 750
   file: "Desktop"
@@ -7252,7 +7252,7 @@
   width: 1440
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 751
   file: "Find your album"
@@ -7262,7 +7262,7 @@
   width: 1439
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 752
   file: "Four Album Types"
@@ -7272,7 +7272,7 @@
   width: 1437
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 753
   file: "If you have many pages"
@@ -7282,7 +7282,7 @@
   width: 1438
   height: 897
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 754
   file: "If you have many photos"
@@ -7292,7 +7292,7 @@
   width: 1439
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 755
   file: "Image on desktop"
@@ -7302,7 +7302,7 @@
   width: 1439
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 756
   file: "Log-In"
@@ -7312,7 +7312,7 @@
   width: 1440
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 757
   file: "Manipulate album details as wanted"
@@ -7322,7 +7322,7 @@
   width: 1439
   height: 898
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 758
   file: "Note on image sizes"
@@ -7332,7 +7332,7 @@
   width: 1440
   height: 899
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 759
   file: "Open the _drop-down_ box"
@@ -7342,7 +7342,7 @@
   width: 1439
   height: 898
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 760
   file: "Photo on desktop"
@@ -7352,7 +7352,7 @@
   width: 480
   height: 343
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 761
   file: "Photo on the desktop"
@@ -7362,7 +7362,7 @@
   width: 1437
   height: 899
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 762
   file: "Search box"
@@ -7372,7 +7372,7 @@
   width: 1438
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 763
   file: "Select photo"
@@ -7382,7 +7382,7 @@
   width: 1440
   height: 899
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 764
   file: "The album start-up page"
@@ -7392,7 +7392,7 @@
   width: 1439
   height: 898
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 765
   file: "To add further items"
@@ -7402,7 +7402,7 @@
   width: 1439
   height: 897
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 766
   file: "Welcome screen"
@@ -7412,7 +7412,7 @@
   width: 1440
   height: 900
   path: "/fun/how to post photos 101/"
-  storage_category_id: 237
+  storage_category_id: -237
 -
   id: 767
   file: "image1835ii7"
@@ -7511,7 +7511,7 @@
   width: 600
   height: 450
   path: "/fun/junky240d/"
-  storage_category_id: 247
+  storage_category_id: -247
 -
   id: 778
   file: "5La5Mf5J53Eb3M23N6c8bb0594451a2b71fd5"
@@ -7520,7 +7520,7 @@
   width: 600
   height: 450
   path: "/fun/junky240d/"
-  storage_category_id: 247
+  storage_category_id: -247
 -
   id: 779
   file: "5Na5Ha5J83M93I53J9c8b6ef4d5ff67ba1855"
@@ -7529,7 +7529,7 @@
   width: 600
   height: 450
   path: "/fun/junky240d/"
-  storage_category_id: 247
+  storage_category_id: -247
 -
   id: 780
   file: "5Nc5Kf5Ha3E93G33Nfc8b4b7032da493912d6"
@@ -7538,7 +7538,7 @@
   width: 600
   height: 450
   path: "/fun/junky240d/"
-  storage_category_id: 247
+  storage_category_id: -247
 -
   id: 781
   file: "10"
@@ -7547,7 +7547,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 782
   file: "11"
@@ -7556,7 +7556,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 783
   file: "12"
@@ -7565,7 +7565,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 784
   file: "13"
@@ -7574,7 +7574,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 785
   file: "14"
@@ -7583,7 +7583,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 786
   file: "15"
@@ -7592,7 +7592,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 787
   file: "16"
@@ -7601,7 +7601,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 788
   file: "17"
@@ -7610,7 +7610,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 789
   file: "18"
@@ -7619,7 +7619,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 790
   file: "19"
@@ -7628,7 +7628,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 791
   file: "20"
@@ -7637,7 +7637,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 792
   file: "21"
@@ -7646,7 +7646,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 793
   file: "22"
@@ -7655,7 +7655,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 794
   file: "23"
@@ -7664,7 +7664,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 795
   file: "24"
@@ -7673,7 +7673,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 796
   file: "25"
@@ -7682,7 +7682,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 797
   file: "26"
@@ -7691,7 +7691,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 798
   file: "27"
@@ -7700,7 +7700,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 799
   file: "28"
@@ -7709,7 +7709,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 800
   file: "29"
@@ -7718,7 +7718,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 801
   file: "30"
@@ -7727,7 +7727,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 802
   file: "33"
@@ -7736,7 +7736,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 803
   file: "34"
@@ -7745,7 +7745,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 804
   file: "35"
@@ -7754,7 +7754,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 805
   file: "36"
@@ -7763,7 +7763,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 806
   file: "37"
@@ -7772,7 +7772,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 807
   file: "6"
@@ -7781,7 +7781,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 808
   file: "7"
@@ -7790,7 +7790,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 809
   file: "8"
@@ -7799,7 +7799,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 810
   file: "9"
@@ -7808,7 +7808,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 811
   file: "photo_1"
@@ -7817,7 +7817,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 812
   file: "photo_2"
@@ -7826,7 +7826,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 813
   file: "photo_3"
@@ -7835,7 +7835,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 814
   file: "photo_4"
@@ -7844,7 +7844,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 815
   file: "photo_5"
@@ -7853,7 +7853,7 @@
   width: 1600
   height: 1200
   path: "/fun/junkyard/"
-  storage_category_id: 234
+  storage_category_id: -234
 -
   id: 816
   file: "wheels"
@@ -7862,7 +7862,7 @@
   width: 400
   height: 300
   path: "/fun/limo wheel pic/"
-  storage_category_id: 235
+  storage_category_id: -235
 -
   id: 817
   file: "m280se_pic1g"
@@ -7920,7 +7920,7 @@
   width: 953
   height: 712
   path: "/fun/oscar/"
-  storage_category_id: 248
+  storage_category_id: -248
 -
   id: 823
   file: "IMGP2432 _Large_"
@@ -7929,7 +7929,7 @@
   width: 1024
   height: 681
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 824
   file: "IMGP4237 _Large_"
@@ -7938,7 +7938,7 @@
   width: 1024
   height: 681
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 825
   file: "full_australian_map"
@@ -7947,7 +7947,7 @@
   width: 361
   height: 325
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 826
   file: "house zoo comet 017 _Medium_"
@@ -7956,7 +7956,7 @@
   width: 800
   height: 532
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 827
   file: "map"
@@ -7965,7 +7965,7 @@
   width: 472
   height: 507
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 828
   file: "pinkf"
@@ -7974,7 +7974,7 @@
   width: 1024
   height: 890
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 829
   file: "rottweilers"
@@ -7983,7 +7983,7 @@
   width: 440
   height: 296
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 830
   file: "6_9startup_wmv"
@@ -8035,7 +8035,7 @@
   ext: ".avi"
   name: "temora 094"
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 837
   file: "uglybw116"
@@ -8045,7 +8045,7 @@
   width: 340
   height: 545
   path: "/fun/oscars/"
-  storage_category_id: 243
+  storage_category_id: -243
 -
   id: 838
   file: "reclamegroot"

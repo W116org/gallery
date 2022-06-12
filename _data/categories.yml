@@ -1695,21 +1695,21 @@
   comment: "Junk yard pictures"
   dir: "junkyard"
   representative_picture_id: 812
-  uppercats: "232,234"
+  uppercats: "-232,234"
 -
   id: 235
   name: "limo wheel pic"
   id_uppercat: 232
   dir: "limo wheel pic"
   representative_picture_id: 816
-  uppercats: "232,235"
+  uppercats: "-232,235"
 -
   id: 236
   name: "Ryans scratchpad"
   id_uppercat: 232
   dir: "Ryan"
   representative_picture_id: 676
-  uppercats: "232,236"
+  uppercats: "-232,236"
 -
   id: 237
   name: "how to post photos 101"
@@ -1717,7 +1717,7 @@
   comment: "posting photos<br>A step-by-step guide how to post photos on the 'org' using the built in image server"
   dir: "how to post photos 101"
   representative_picture_id: 765
-  uppercats: "232,237"
+  uppercats: "-232,237"
 -
   id: 238
   name: "old heaps"
@@ -1725,27 +1725,27 @@
   comment: "heaps found on my travels<br>heap of junk"
   dir: "bombs"
   representative_picture_id: 712
-  uppercats: "232,238"
+  uppercats: "-232,238"
 -
   id: 239
   name: "Drag Racing"
   id_uppercat: 232
   comment: "Drag Racing movies<br>Drag Racing movies"
   dir: "drag_race"
-  uppercats: "232,239"
+  uppercats: "-232,239"
 -
   id: 240
   name: "W116 in the movies"
   id_uppercat: 232
   dir: "W116 in the movies"
-  uppercats: "232,240"
+  uppercats: "-232,240"
 -
   id: 241
   name: "Casey's Toys"
   id_uppercat: 232
   dir: "caseys_toys"
   representative_picture_id: 715
-  uppercats: "232,241"
+  uppercats: "-232,241"
 -
   id: 242
   name: "Lorinser Body Kit"
@@ -1759,7 +1759,7 @@
   id_uppercat: 232
   dir: "oscars"
   representative_picture_id: 824
-  uppercats: "232,243"
+  uppercats: "-232,243"
 -
   id: 244
   name: "sounds"
@@ -1773,7 +1773,7 @@
   id_uppercat: 232
   dir: "example"
   representative_picture_id: 727
-  uppercats: "232,245"
+  uppercats: "-232,245"
 -
   id: 246
   name: "Andrew280SEL's Photochopping"
@@ -1789,14 +1789,14 @@
   comment: "LOL"
   dir: "junky240d"
   representative_picture_id: 779
-  uppercats: "232,247"
+  uppercats: "-232,247"
 -
   id: 248
   name: "oscar"
   id_uppercat: 232
   dir: "oscar"
   representative_picture_id: 822
-  uppercats: "232,248"
+  uppercats: "-232,248"
 -
   id: 249
   name: "Showroom"
