@@ -1,8 +1,8 @@
 {% for album in site.data.categories -%}
-{% if album.id_uppercat == page.category -%}
+{% if album.uppercats[0] == page.category -%}
         <div class="card album">
             <div class="card-header">
-                {{album.name}} [ID {{album.id}}]
+                {{album.name}}
             </div>
             <div class="thumbnails" id="thumbnails">
             {% for image in site.data.images -%}
@@ -14,17 +14,6 @@
             <div class="card-body">
                 <p class="card-text">{{album.comment}}</p>
             </div>
-
-{% if album.id_uppercats == album.id -%} <div class="card album">
-    <div class="card-header">
-        {{album.name}} [ID {{album.id}}]
-    </div>
-    <div class="thumbnails" id="thumbnails"> {% for image in site.data.images -%} {% if image.storage_category_id == album.id -%} <a href="{{site.cdn}}{{image.path}}{{image.file}}{{image.ext}}"><img class="img-thumbnail" src="{{site.cdn}}/i{{image.path}}{{image.file}}-sq{{image.ext}}" alt="{{image.name}}" title="{{image.comment}}" loading=lazy></a> {% endif -%} {% endfor -%} </div>
-    <div class="card-body">
-        <p class="card-text">{{album.comment}}</p>
-    </div>
-</div> {% endif -%}
-
         </div>
 {% endif -%}
 {% endfor -%}
