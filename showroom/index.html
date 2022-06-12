@@ -5,6 +5,7 @@ permalink: /showroom/
 title: "W116 Gallery"
 subtitle: "Showroom"
 lead: "Be proud <br> It's all about the details"
+category: 249
 ---
 
 <div class="row">
@@ -13,7 +14,7 @@ lead: "Be proud <br> It's all about the details"
         <div id="album" class="album">
             <div class="thumbnails" id="thumbnails">
             {% for image in site.data.images -%}
-            {% if image.storage_category_id == 249 -%}
+            {% if image.storage_category_id == page.category -%}
                 <a href="{{site.cdn}}{{image.path}}{{image.file}}{{image.ext}}"><img class="img-thumbnail" src="{{site.cdn}}/i{{image.path}}{{image.file}}-sq{{image.ext}}" alt="{{image.name}}" title="{{image.comment}}" loading=lazy></a>
             {% endif -%}
             {% endfor -%}
