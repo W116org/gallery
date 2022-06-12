@@ -1781,7 +1781,7 @@
   comment: "Graphic misc"
   dir: "PhotoChopping"
   representative_picture_id: 666
-  uppercats: [232,246]
+  uppercats: [-232,246]
 -
   id: 247
   name: "Junky 240D"
