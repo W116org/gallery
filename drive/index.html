@@ -9,8 +9,8 @@ lead: "Location shots <br> Where the scenery counts"
 
 <div class="row">
     <div class="col">
+        {% include crumbs.html %}
         <div id="album" class="album">
-            {% include crumbs.html %}
             <div class="thumbnails" id="thumbnails">
             {% for image in site.data.images -%}
             {% if image.storage_category_id == 364 -%}
