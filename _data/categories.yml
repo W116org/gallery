@@ -1854,7 +1854,7 @@
   id_uppercat: 249
   comment: "Classic White 230E ... 600AUD"
   dir: "ponton_w123_001"
-  uppercats: "249,256"
+  uppercats: "-249,256"
 -
   id: 257
   name: "CA116's 300SD"
@@ -1971,7 +1971,7 @@
   name: "oscar"
   id_uppercat: 249
   dir: "oscar"
-  uppercats: "249,272"
+  uppercats: "-249,272"
 -
   id: 273
   name: "remotec rims"
@@ -2050,7 +2050,7 @@
   id_uppercat: 249
   comment: "280SE Concourse<br>My 280SE ready for Concourse"
   dir: "280SE"
-  uppercats: "249,283"
+  uppercats: "-249,283"
 -
   id: 284
   name: "1978 450SEL"
@@ -2206,7 +2206,7 @@
   id_uppercat: 249
   comment: "Classic White 230E ... 600AUD"
   dir: "ponton_w123"
-  uppercats: "249,304"
+  uppercats: "-249,304"
 -
   id: 305
   name: "GRIS (Grey in French)"
