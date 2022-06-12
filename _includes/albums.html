@@ -1,5 +1,9 @@
 {% for album in site.data.categories -%}
 {% if album.uppercats contains page.category -%}
+        <div class="card album">
+            <div class="card-header">
+                {{album.name}}
+            </div>
             <div class="thumbnails" id="thumbnails">
             {% for image in site.data.images -%}
             {% if image.storage_category_id == album.id -%}
@@ -7,5 +11,9 @@
             {% endif -%}
             {% endfor -%}
             </div>
+            <div class="card-body">
+                <p class="card-text">{{album.comment}}</p>
+            </div>
+        </div>
 {% endif -%}
 {% endfor -%}
