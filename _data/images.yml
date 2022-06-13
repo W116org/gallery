@@ -44848,15 +44848,15 @@
   height: 768
   path: "/showroom/CA116/"
   storage_category_id: 257
--
-  id: 4769
-  file: "IMG_4088_001"
-  ext: ".jpg"
-  name: "IMG_4088"
-  width: 1152
-  height: 768
-  path: "/showroom/CA116/"
-  storage_category_id: 257
+# -
+#   id: 4769
+#   file: "IMG_4088_001"
+#   ext: ".jpg"
+#   name: "IMG_4088"
+#   width: 1152
+#   height: 768
+#   path: "/showroom/CA116/"
+#   storage_category_id: 257
 -
   id: 4770
   file: "IMG_4099"
