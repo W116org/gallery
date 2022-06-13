@@ -55418,15 +55418,15 @@
   height: 1200
   path: "/showroom/tk/"
   storage_category_id: 339
--
-  id: 5903
-  file: "DSC03823_001"
-  ext: ".JPG"
-  name: "DSC03823"
-  width: 1600
-  height: 1200
-  path: "/showroom/tk/"
-  storage_category_id: 339
+# -
+#   id: 5903
+#   file: "DSC03823_001"
+#   ext: ".JPG"
+#   name: "DSC03823"
+#   width: 1600
+#   height: 1200
+#   path: "/showroom/tk/"
+#   storage_category_id: 339
 -
   id: 5904
   file: "DSC03824"
@@ -55445,15 +55445,15 @@
   height: 1200
   path: "/showroom/tk/"
   storage_category_id: 339
--
-  id: 5906
-  file: "DSC03825_001"
-  ext: ".JPG"
-  name: "DSC03825"
-  width: 1600
-  height: 1200
-  path: "/showroom/tk/"
-  storage_category_id: 339
+# -
+#   id: 5906
+#   file: "DSC03825_001"
+#   ext: ".JPG"
+#   name: "DSC03825"
+#   width: 1600
+#   height: 1200
+#   path: "/showroom/tk/"
+#   storage_category_id: 339
 -
   id: 5907
   file: "DSC03826"
@@ -55463,15 +55463,15 @@
   height: 1200
   path: "/showroom/tk/"
   storage_category_id: 339
--
-  id: 5908
-  file: "DSC03826_001"
-  ext: ".JPG"
-  name: "DSC03826"
-  width: 1600
-  height: 1200
-  path: "/showroom/tk/"
-  storage_category_id: 339
+# -
+#   id: 5908
+#   file: "DSC03826_001"
+#   ext: ".JPG"
+#   name: "DSC03826"
+#   width: 1600
+#   height: 1200
+#   path: "/showroom/tk/"
+#   storage_category_id: 339
 -
   id: 5909
   file: "DSC03827"
