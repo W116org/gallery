@@ -6610,15 +6610,15 @@
   height: 754
   path: "/fun/"
   storage_category_id: 232
--
-  id: 682
-  file: "Steering wheel-111_001"
-  ext: ".jpg"
-  name: "Steering wheel-111"
-  width: 850
-  height: 754
-  path: "/fun/"
-  storage_category_id: 232
+# -
+#   id: 682
+#   file: "Steering wheel-111_001"
+#   ext: ".jpg"
+#   name: "Steering wheel-111"
+#   width: 850
+#   height: 754
+#   path: "/fun/"
+#   storage_category_id: 232
 -
   id: 683
   file: "Strydom-MB-W116-Landau"
@@ -45848,78 +45848,78 @@
   height: 678
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4874
-  file: "IMGP0388"
-  ext: ".jpg"
-  name: "IMGP0388"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
--
-  id: 4875
-  file: "IMGP0389"
-  ext: ".jpg"
-  name: "IMGP0389"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
--
-  id: 4876
-  file: "IMGP0391"
-  ext: ".jpg"
-  name: "IMGP0391"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
--
-  id: 4877
-  file: "IMGP0396"
-  ext: ".jpg"
-  name: "IMGP0396"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
--
-  id: 4878
-  file: "IMGP0397"
-  ext: ".jpg"
-  name: "IMGP0397"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
--
-  id: 4879
-  file: "IMGP0399"
-  ext: ".jpg"
-  name: "IMGP0399"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
--
-  id: 4880
-  file: "IMGP0400"
-  ext: ".jpg"
-  name: "IMGP0400"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
--
-  id: 4881
-  file: "IMGP0402"
-  ext: ".jpg"
-  name: "IMGP0402"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4874
+#   file: "IMGP0388"
+#   ext: ".jpg"
+#   name: "IMGP0388"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
+# -
+#   id: 4875
+#   file: "IMGP0389"
+#   ext: ".jpg"
+#   name: "IMGP0389"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
+# -
+#   id: 4876
+#   file: "IMGP0391"
+#   ext: ".jpg"
+#   name: "IMGP0391"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
+# -
+#   id: 4877
+#   file: "IMGP0396"
+#   ext: ".jpg"
+#   name: "IMGP0396"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
+# -
+#   id: 4878
+#   file: "IMGP0397"
+#   ext: ".jpg"
+#   name: "IMGP0397"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
+# -
+#   id: 4879
+#   file: "IMGP0399"
+#   ext: ".jpg"
+#   name: "IMGP0399"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
+# -
+#   id: 4880
+#   file: "IMGP0400"
+#   ext: ".jpg"
+#   name: "IMGP0400"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
+# -
+#   id: 4881
+#   file: "IMGP0402"
+#   ext: ".jpg"
+#   name: "IMGP0402"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4882
   file: "IMGP0518"
