@@ -2538,12 +2538,12 @@
   dir: "W116_73_280S"
   representative_picture_id: 5229
   uppercats: [249,348]
--
-  id: 349
-  name: "big blue whale"
-  id_uppercat: 249
-  dir: "big blue whale"
-  uppercats: [249,349]
+# -
+#   id: 349
+#   name: "big blue whale"
+#   id_uppercat: 249
+#   dir: "big blue whale"
+#   uppercats: [249,349]
 -
   id: 350
   name: "Neko's '77 280SE"
