@@ -3,9 +3,9 @@
     <a class="nav-link" href="/">Gallery</a>
     {% for crumb in crumbs offset: 1 -%}
     {% if forloop.last -%}
-        <a class="nav-link disabled">/ {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+        <a class="nav-link disabled border-start">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
     {% else -%}
-        <a class="nav-link" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">/ {{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+        <a class="nav-link border-start" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
     {% endif -%}
     {% endfor -%}
 </nav>
