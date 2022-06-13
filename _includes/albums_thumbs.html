@@ -1,20 +1,20 @@
 <div class="row text-center">
     <div class="col">
-{% for album in site.data.categories -%}
-{% if album.uppercats[0] == page.category -%}
         <div class="card mt-1 album">
             <div class="card-header">
                 Albums
             </div>
             <div class="thumbnails" id="thumbnails">
-            {% for image in site.data.images -%}
-            {% if image.id == album.representative_picture_id -%}
+            {% for album in site.data.categories -%}
+            {% if album.uppercats[0] == page.category -%}
+                {% for image in site.data.images -%}
+                {% if image.id == album.representative_picture_id -%}
                 <a href="#" title="{{album.comment}}"><img class="img-thumbnail" src="{{site.cdn}}/i{{image.path}}{{image.file}}-sq{{image.ext}}" alt="{{album.name}}" title="{{album.comment}}" loading=lazy></a>
+                {% endif -%}
+                {% endfor -%}
             {% endif -%}
             {% endfor -%}
             </div>
         </div>
-{% endif -%}
-{% endfor -%}
     </div>
 </div><!-- /.row -->
