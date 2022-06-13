@@ -1,10 +1,10 @@
 <div class="row text-center">
     <div class="col">
-        <div class="card mt-1 album">
+        <div class="card  my-2 album">
             <div class="card-header">
                 Albums
             </div>
-            <div class="album_thumbs" id="album_thumbs">
+            <div class="album_thumbs" id="albums">
             {% for album in site.data.categories -%}
             {% if album.uppercats[0] == page.category -%}
                 {% for image in site.data.images -%}
