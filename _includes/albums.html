@@ -2,7 +2,7 @@
     <div class="col">
 {% for album in site.data.categories -%}
 {% if album.uppercats[0] == page.category -%}
-        <div class="card mt-1 album">
+        <div class="card mt-1 album" id="{{album.id}}">
             <div class="card-header">
                 {{album.name}}
             </div>
