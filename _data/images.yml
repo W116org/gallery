@@ -41328,15 +41328,15 @@
   height: 683
   path: "/garage/w116vacuumleaks/"
   storage_category_id: 193
--
-  id: 4396
-  file: "w123_front"
-  ext: ".jpg"
-  name: "w123_front"
-  width: 446
-  height: 281
-  path: "/garage/"
-  storage_category_id: 1
+# -
+#   id: 4396
+#   file: "w123_front"
+#   ext: ".jpg"
+#   name: "w123_front"
+#   width: 446
+#   height: 281
+#   path: "/garage/"
+#   storage_category_id: 1
 -
   id: 4397
   file: "W116_window_switch_000_assembled"
