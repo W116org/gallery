@@ -2119,20 +2119,20 @@
   dir: "oscars"
   representative_picture_id: 5686
   uppercats: [249,292]
--
-  id: 293
-  name: "mercs in Italy"
-  id_uppercat: 292
-  dir: "mercs in Italy"
-  representative_picture_id: 5712
-  uppercats: [249,292,293]
--
-  id: 294
-  name: "Shannons German Autofest 2006"
-  id_uppercat: 292
-  dir: "Shannons German Autofest 2006"
-  representative_picture_id: 5690
-  uppercats: [249,292,294]
+# -
+#   id: 293
+#   name: "mercs in Italy"
+#   id_uppercat: 292
+#   dir: "mercs in Italy"
+#   representative_picture_id: 5712
+#   uppercats: [249,292,293]
+# -
+#   id: 294
+#   name: "Shannons German Autofest 2006"
+#   id_uppercat: 292
+#   dir: "Shannons German Autofest 2006"
+#   representative_picture_id: 5690
+#   uppercats: [249,292,294]
 -
   id: 295
   name: "misc"
