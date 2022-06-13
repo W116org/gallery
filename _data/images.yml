@@ -42598,16 +42598,16 @@
   height: 1536
   path: "/showroom/1975 280S/"
   storage_category_id: 316
--
-  id: 4532
-  file: "image_001"
-  ext: ".jpeg"
-  name: "280 S Berlin, Germany"
-  comment: "280 S Berlin, Germany"
-  width: 2048
-  height: 1536
-  path: "/showroom/1975 280S/"
-  storage_category_id: 316
+# -
+#   id: 4532
+#   file: "image_001"
+#   ext: ".jpeg"
+#   name: "280 S Berlin, Germany"
+#   comment: "280 S Berlin, Germany"
+#   width: 2048
+#   height: 1536
+#   path: "/showroom/1975 280S/"
+#   storage_category_id: 316
 -
   id: 4533
   file: "PICT0189 - Version 2"
@@ -43618,15 +43618,15 @@
   height: 768
   path: "/showroom/500eguy/"
   storage_category_id: 335
--
-  id: 4640
-  file: "DSC01759_001"
-  ext: ".jpg"
-  name: "DSC01759"
-  width: 1024
-  height: 768
-  path: "/showroom/500eguy/"
-  storage_category_id: 335
+# -
+#   id: 4640
+#   file: "DSC01759_001"
+#   ext: ".jpg"
+#   name: "DSC01759"
+#   width: 1024
+#   height: 768
+#   path: "/showroom/500eguy/"
+#   storage_category_id: 335
 -
   id: 4641
   file: "DSC01760"
