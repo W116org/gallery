@@ -41692,15 +41692,15 @@
   height: 480
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4434
-  file: "116 6_9 002_001"
-  ext: ".jpg"
-  name: "116 6.9 002"
-  width: 640
-  height: 480
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4434
+#   file: "116 6_9 002_001"
+#   ext: ".jpg"
+#   name: "116 6.9 002"
+#   width: 640
+#   height: 480
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4435
   file: "116 6_9 008"
@@ -41710,15 +41710,15 @@
   height: 480
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4436
-  file: "116 6_9 008_001"
-  ext: ".jpg"
-  name: "116 6.9 008"
-  width: 640
-  height: 480
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4436
+#   file: "116 6_9 008_001"
+#   ext: ".jpg"
+#   name: "116 6.9 008"
+#   width: 640
+#   height: 480
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4437
   file: "116 6_9 009"
@@ -41728,15 +41728,15 @@
   height: 480
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4438
-  file: "116 6_9 009_001"
-  ext: ".jpg"
-  name: "116 6.9 009"
-  width: 640
-  height: 480
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4438
+#   file: "116 6_9 009_001"
+#   ext: ".jpg"
+#   name: "116 6.9 009"
+#   width: 640
+#   height: 480
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4439
   file: "116 6_9 010"
@@ -41764,15 +41764,15 @@
   height: 480
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4442
-  file: "116 6_9 016_001"
-  ext: ".jpg"
-  name: "116 6.9 016"
-  width: 640
-  height: 480
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4442
+#   file: "116 6_9 016_001"
+#   ext: ".jpg"
+#   name: "116 6.9 016"
+#   width: 640
+#   height: 480
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4443
   file: "116 6_9 017"
@@ -41782,15 +41782,15 @@
   height: 480
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4444
-  file: "116 6_9 017_001"
-  ext: ".jpg"
-  name: "116 6.9 017"
-  width: 640
-  height: 480
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4444
+#   file: "116 6_9 017_001"
+#   ext: ".jpg"
+#   name: "116 6.9 017"
+#   width: 640
+#   height: 480
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4445
   file: "116 Park 2"
