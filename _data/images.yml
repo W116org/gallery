@@ -41581,15 +41581,15 @@
   height: 428
   path: "/showroom/004/"
   storage_category_id: 340
--
-  id: 4422
-  file: "Silerardo 029small 06_001"
-  ext: ".jpg"
-  name: "Silerardo 029small 06"
-  width: 640
-  height: 428
-  path: "/showroom/004/"
-  storage_category_id: 340
+# -
+#   id: 4422
+#   file: "Silerardo 029small 06_001"
+#   ext: ".jpg"
+#   name: "Silerardo 029small 06"
+#   width: 640
+#   height: 428
+#   path: "/showroom/004/"
+#   storage_category_id: 340
 -
   id: 4423
   file: "Silerardo 035 small 07"
@@ -52646,15 +52646,15 @@
   height: 480
   path: "/showroom/merc 78 280sel/"
   storage_category_id: 343
--
-  id: 5601
-  file: "n8 570_001"
-  ext: ".jpg"
-  name: "n8 570"
-  width: 640
-  height: 480
-  path: "/showroom/merc 78 280sel/"
-  storage_category_id: 343
+# -
+#   id: 5601
+#   file: "n8 570_001"
+#   ext: ".jpg"
+#   name: "n8 570"
+#   width: 640
+#   height: 480
+#   path: "/showroom/merc 78 280sel/"
+#   storage_category_id: 343
 -
   id: 5602
   file: "n8 574"
@@ -52843,15 +52843,15 @@
   height: 640
   path: "/showroom/merc 78 280sel/"
   storage_category_id: 343
--
-  id: 5622
-  file: "photos 862_001"
-  ext: ".jpg"
-  name: "photos 862"
-  width: 480
-  height: 640
-  path: "/showroom/merc 78 280sel/"
-  storage_category_id: 343
+# -
+#   id: 5622
+#   file: "photos 862_001"
+#   ext: ".jpg"
+#   name: "photos 862"
+#   width: 480
+#   height: 640
+#   path: "/showroom/merc 78 280sel/"
+#   storage_category_id: 343
 -
   id: 5623
   file: "photos 864"
