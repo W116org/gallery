@@ -45983,15 +45983,15 @@
   height: 683
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4889
-  file: "IMGP0530_001"
-  ext: ".jpg"
-  name: "IMGP0530"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4889
+#   file: "IMGP0530_001"
+#   ext: ".jpg"
+#   name: "IMGP0530"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4890
   file: "IMGP0531"
@@ -46001,15 +46001,15 @@
   height: 683
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4891
-  file: "IMGP0531_001"
-  ext: ".jpg"
-  name: "IMGP0531"
-  width: 1024
-  height: 683
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4891
+#   file: "IMGP0531_001"
+#   ext: ".jpg"
+#   name: "IMGP0531"
+#   width: 1024
+#   height: 683
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4892
   file: "IMGP0533"
