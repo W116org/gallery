@@ -4,7 +4,7 @@
             <div class="card-header">
                 Albums
             </div>
-            <div class="thumbnails" id="thumbnails">
+            <div class="album_thumbs" id="album_thumbs">
             {% for album in site.data.categories -%}
             {% if album.uppercats[0] == page.category -%}
                 {% for image in site.data.images -%}
