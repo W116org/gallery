@@ -738,53 +738,53 @@
   height: 768
   path: "/drive/"
   storage_category_id: 364
--
-  id: 79
-  file: "deutschlands_next_top_mercedes"
-  ext: ".jpg"
-  name: "deutschlands_next_top_mercedes"
-  width: 918
-  height: 822
-  path: "/drive/JCs_W123/"
-  storage_category_id: 365
--
-  id: 80
-  file: "fuenfgang_rocks"
-  ext: ".jpg"
-  name: "fuenfgang_rocks"
-  comment: "Five Gear Fun!"
-  width: 1018
-  height: 448
-  path: "/drive/JCs_W123/"
-  storage_category_id: 365
--
-  id: 81
-  file: "p1010560"
-  ext: ".jpg"
-  name: "p1010560"
-  width: 2048
-  height: 1536
-  path: "/drive/JCs_W123/"
-  storage_category_id: 365
--
-  id: 82
-  file: "p1010563"
-  ext: ".jpg"
-  name: "Downtown"
-  comment: "Downtown"
-  width: 2048
-  height: 1536
-  path: "/drive/JCs_W123/"
-  storage_category_id: 365
--
-  id: 83
-  file: "p1010578"
-  ext: ".jpg"
-  name: "Drive to work - work to drive"
-  width: 2048
-  height: 1536
-  path: "/drive/JCs_W123/"
-  storage_category_id: 365
+# -
+#   id: 79
+#   file: "deutschlands_next_top_mercedes"
+#   ext: ".jpg"
+#   name: "deutschlands_next_top_mercedes"
+#   width: 918
+#   height: 822
+#   path: "/drive/JCs_W123/"
+#   storage_category_id: -365
+# -
+#   id: 80
+#   file: "fuenfgang_rocks"
+#   ext: ".jpg"
+#   name: "fuenfgang_rocks"
+#   comment: "Five Gear Fun!"
+#   width: 1018
+#   height: 448
+#   path: "/drive/JCs_W123/"
+#   storage_category_id: -365
+# -
+#   id: 81
+#   file: "p1010560"
+#   ext: ".jpg"
+#   name: "p1010560"
+#   width: 2048
+#   height: 1536
+#   path: "/drive/JCs_W123/"
+#   storage_category_id: -365
+# -
+#   id: 82
+#   file: "p1010563"
+#   ext: ".jpg"
+#   name: "Downtown"
+#   comment: "Downtown"
+#   width: 2048
+#   height: 1536
+#   path: "/drive/JCs_W123/"
+#   storage_category_id: -365
+# -
+#   id: 83
+#   file: "p1010578"
+#   ext: ".jpg"
+#   name: "Drive to work - work to drive"
+#   width: 2048
+#   height: 1536
+#   path: "/drive/JCs_W123/"
+#   storage_category_id: -365
 -
   id: 84
   file: "IMGP2749 _Medium_"
@@ -4943,282 +4943,282 @@
   height: 768
   path: "/drive/ramz/"
   storage_category_id: 366
--
-  id: 502
-  file: "P9070220"
-  ext: ".JPG"
-  name: "P9070220"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 503
-  file: "P9070221"
-  ext: ".JPG"
-  name: "P9070221"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 504
-  file: "P9070222"
-  ext: ".JPG"
-  name: "P9070222"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 505
-  file: "P9070223"
-  ext: ".JPG"
-  name: "P9070223"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 506
-  file: "P9070224"
-  ext: ".JPG"
-  name: "P9070224"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 507
-  file: "P9070225"
-  ext: ".JPG"
-  name: "P9070225"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 508
-  file: "P9070226"
-  ext: ".JPG"
-  name: "P9070226"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 509
-  file: "P9070227"
-  ext: ".JPG"
-  name: "P9070227"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 510
-  file: "P9070228"
-  ext: ".JPG"
-  name: "P9070228"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 511
-  file: "P9070229"
-  ext: ".JPG"
-  name: "P9070229"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 512
-  file: "P9070230"
-  ext: ".JPG"
-  name: "P9070230"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 513
-  file: "P9070231"
-  ext: ".JPG"
-  name: "P9070231"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 514
-  file: "P9070232"
-  ext: ".JPG"
-  name: "P9070232"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 515
-  file: "P9070233"
-  ext: ".JPG"
-  name: "P9070233"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 516
-  file: "P9070234"
-  ext: ".JPG"
-  name: "P9070234"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 517
-  file: "P9070235"
-  ext: ".JPG"
-  name: "P9070235"
-  comment: "Salzburg Classic Days"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg/"
-  storage_category_id: 368
--
-  id: 518
-  file: "P9070232"
-  ext: ".JPG"
-  name: "P9070232"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 519
-  file: "P9070233"
-  ext: ".JPG"
-  name: "P9070233"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 520
-  file: "P9070234"
-  ext: ".JPG"
-  name: "P9070234"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 521
-  file: "P9070235"
-  ext: ".JPG"
-  name: "P9070235"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 522
-  file: "P9070236"
-  ext: ".JPG"
-  name: "P9070236"
-  comment: "Salzburg Classic Days 2005"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 523
-  file: "P9070237"
-  ext: ".JPG"
-  name: "P9070237"
-  comment: "Salzburg Classic Days 2005"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 524
-  file: "P9070238"
-  ext: ".JPG"
-  name: "P9070238"
-  comment: "Salzburg Classic Days 2005"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 525
-  file: "P9070239"
-  ext: ".JPG"
-  name: "P9070239"
-  comment: "Salzburg Classic Days 2005"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 526
-  file: "P9070240"
-  ext: ".JPG"
-  name: "P9070240"
-  comment: "Salzburg Classic Days 2005"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 527
-  file: "P9070241"
-  ext: ".JPG"
-  name: "P9070241"
-  comment: "Salzburg Classic Days 2005"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 528
-  file: "P9070242"
-  ext: ".JPG"
-  name: "P9070242"
-  comment: "Salzburg Classic Days 2005"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
--
-  id: 529
-  file: "P9070243"
-  ext: ".JPG"
-  name: "P9070243"
-  comment: "Salzburg Classic Days 2005"
-  width: 2288
-  height: 1712
-  path: "/drive/salzburg2/"
-  storage_category_id: 376
+# -
+#   id: 502
+#   file: "P9070220"
+#   ext: ".JPG"
+#   name: "P9070220"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 503
+#   file: "P9070221"
+#   ext: ".JPG"
+#   name: "P9070221"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 504
+#   file: "P9070222"
+#   ext: ".JPG"
+#   name: "P9070222"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 505
+#   file: "P9070223"
+#   ext: ".JPG"
+#   name: "P9070223"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 506
+#   file: "P9070224"
+#   ext: ".JPG"
+#   name: "P9070224"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 507
+#   file: "P9070225"
+#   ext: ".JPG"
+#   name: "P9070225"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 508
+#   file: "P9070226"
+#   ext: ".JPG"
+#   name: "P9070226"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 509
+#   file: "P9070227"
+#   ext: ".JPG"
+#   name: "P9070227"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 510
+#   file: "P9070228"
+#   ext: ".JPG"
+#   name: "P9070228"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 511
+#   file: "P9070229"
+#   ext: ".JPG"
+#   name: "P9070229"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 512
+#   file: "P9070230"
+#   ext: ".JPG"
+#   name: "P9070230"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 513
+#   file: "P9070231"
+#   ext: ".JPG"
+#   name: "P9070231"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 514
+#   file: "P9070232"
+#   ext: ".JPG"
+#   name: "P9070232"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 515
+#   file: "P9070233"
+#   ext: ".JPG"
+#   name: "P9070233"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 516
+#   file: "P9070234"
+#   ext: ".JPG"
+#   name: "P9070234"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 517
+#   file: "P9070235"
+#   ext: ".JPG"
+#   name: "P9070235"
+#   comment: "Salzburg Classic Days"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg/"
+#   storage_category_id: -368
+# -
+#   id: 518
+#   file: "P9070232"
+#   ext: ".JPG"
+#   name: "P9070232"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 519
+#   file: "P9070233"
+#   ext: ".JPG"
+#   name: "P9070233"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 520
+#   file: "P9070234"
+#   ext: ".JPG"
+#   name: "P9070234"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 521
+#   file: "P9070235"
+#   ext: ".JPG"
+#   name: "P9070235"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 522
+#   file: "P9070236"
+#   ext: ".JPG"
+#   name: "P9070236"
+#   comment: "Salzburg Classic Days 2005"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 523
+#   file: "P9070237"
+#   ext: ".JPG"
+#   name: "P9070237"
+#   comment: "Salzburg Classic Days 2005"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 524
+#   file: "P9070238"
+#   ext: ".JPG"
+#   name: "P9070238"
+#   comment: "Salzburg Classic Days 2005"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 525
+#   file: "P9070239"
+#   ext: ".JPG"
+#   name: "P9070239"
+#   comment: "Salzburg Classic Days 2005"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 526
+#   file: "P9070240"
+#   ext: ".JPG"
+#   name: "P9070240"
+#   comment: "Salzburg Classic Days 2005"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 527
+#   file: "P9070241"
+#   ext: ".JPG"
+#   name: "P9070241"
+#   comment: "Salzburg Classic Days 2005"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 528
+#   file: "P9070242"
+#   ext: ".JPG"
+#   name: "P9070242"
+#   comment: "Salzburg Classic Days 2005"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
+# -
+#   id: 529
+#   file: "P9070243"
+#   ext: ".JPG"
+#   name: "P9070243"
+#   comment: "Salzburg Classic Days 2005"
+#   width: 2288
+#   height: 1712
+#   path: "/drive/salzburg2/"
+#   storage_category_id: -376
 -
   id: 530
   file: "ryan and grant_002"

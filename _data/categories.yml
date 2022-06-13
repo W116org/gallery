@@ -2656,14 +2656,14 @@
   dir: "drive"
   representative_picture_id: 57
   uppercats: 364
--
-  id: 365
-  name: "JCs_W123"
-  id_uppercat: 364
-  comment: "Silberdistel W123<br>W123 around the Danube"
-  dir: "JCs_W123"
-  representative_picture_id: 79
-  uppercats: [364,365]
+# -
+#   id: 365
+#   name: "JCs_W123"
+#   id_uppercat: 364
+#   comment: "Silberdistel W123<br>W123 around the Danube"
+#   dir: "JCs_W123"
+#   representative_picture_id: 79
+#   uppercats: [364,365]
 -
   id: 366
   name: "feeler"
@@ -2679,14 +2679,14 @@
   dir: "Rewind_1975_280S"
   representative_picture_id: 334
   uppercats: [364,367]
--
-  id: 368
-  name: "Salzburg Classic Days 2005"
-  id_uppercat: 364
-  comment: "Salzburg Classic Days 2005"
-  dir: "salzburg"
-  representative_picture_id: 505
-  uppercats: [364,368]
+# -
+#   id: 368
+#   name: "Salzburg Classic Days 2005"
+#   id_uppercat: 364
+#   comment: "Salzburg Classic Days 2005"
+#   dir: "salzburg"
+#   representative_picture_id: 505
+#   uppercats: [364,368]
 -
   id: 369
   name: "big blue whale"
@@ -2738,14 +2738,14 @@
   dir: "ToLondon"
   representative_picture_id: 472
   uppercats: [364,375]
--
-  id: 376
-  name: "Salzburg Classic Days 2005 #2"
-  id_uppercat: 364
-  comment: "Salzburg Classic Days 2005"
-  dir: "salzburg2"
-  representative_picture_id: 526
-  uppercats: [364,376]
+# -
+#   id: 376
+#   name: "Salzburg Classic Days 2005 #2"
+#   id_uppercat: 364
+#   comment: "Salzburg Classic Days 2005"
+#   dir: "salzburg2"
+#   representative_picture_id: 526
+#   uppercats: [364,376]
 -
   id: 377
   name: "TJ 450's Outings"
