@@ -2687,12 +2687,12 @@
 #   dir: "salzburg"
 #   representative_picture_id: 505
 #   uppercats: [364,368]
--
-  id: 369
-  name: "big blue whale"
-  id_uppercat: 364
-  dir: "big blue whale"
-  uppercats: [364,369]
+# -
+#   id: 369
+#   name: "big blue whale"
+#   id_uppercat: 364
+#   dir: "big blue whale"
+#   uppercats: [364,369]
 -
   id: 370
   name: "South African 116 get-to-gethers"
