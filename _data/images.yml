@@ -27145,16 +27145,16 @@
   height: 536
   path: "/garage/"
   storage_category_id: 1
--
-  id: 2875
-  file: "low res 4_001"
-  ext: ".jpg"
-  name: "low res 4"
-  comment: "Donor car for my 280CE resto"
-  width: 800
-  height: 536
-  path: "/garage/"
-  storage_category_id: 1
+# -
+#   id: 2875
+#   file: "low res 4_001"
+#   ext: ".jpg"
+#   name: "low res 4"
+#   comment: "Donor car for my 280CE resto"
+#   width: 800
+#   height: 536
+#   path: "/garage/"
+#   storage_category_id: 1
 -
   id: 2876
   file: "low res"
@@ -46110,15 +46110,15 @@
   height: 685
   path: "/showroom/"
   storage_category_id: 249
--
-  id: 4903
-  file: "IMGP3899_001"
-  ext: ".jpg"
-  name: "IMGP3899"
-  width: 1024
-  height: 685
-  path: "/showroom/"
-  storage_category_id: 249
+# -
+#   id: 4903
+#   file: "IMGP3899_001"
+#   ext: ".jpg"
+#   name: "IMGP3899"
+#   width: 1024
+#   height: 685
+#   path: "/showroom/"
+#   storage_category_id: 249
 -
   id: 4904
   file: "IMG_0006"
