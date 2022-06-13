@@ -48465,15 +48465,15 @@
   height: 764
   path: "/showroom/SteamWorks 450sel/"
   storage_category_id: 363
--
-  id: 5150
-  file: "IMG_0147_001"
-  ext: ".jpg"
-  name: "IMG_0147"
-  width: 1023
-  height: 764
-  path: "/showroom/SteamWorks 450sel/"
-  storage_category_id: 363
+# -
+#   id: 5150
+#   file: "IMG_0147_001"
+#   ext: ".jpg"
+#   name: "IMG_0147"
+#   width: 1023
+#   height: 764
+#   path: "/showroom/SteamWorks 450sel/"
+#   storage_category_id: 363
 -
   id: 5151
   file: "IMG_0148"
