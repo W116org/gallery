@@ -1,7 +1,5 @@
-<div class="row text-center">
-    <div class="col">
 {% for album in site.data.categories -%}
-{% if album.uppercat == page.category -%}
+{% if album.uppercat == include.category -%}
         <div class="card mt-2 album" id="{{album.id}}">
             <div class="card-header">
                 {{album.name}}
@@ -17,8 +15,5 @@
             {% endfor -%}
             </div>
         </div>
-        {% include album_sub.html category=album.uppercats[1] -%}
 {% endif -%}
 {% endfor -%}
-    </div>
-</div><!-- /.row -->
