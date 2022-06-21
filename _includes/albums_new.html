@@ -16,7 +16,7 @@
             {% endif -%}
             {% endfor -%}
             </div>
-        {% if album.uppercats[1] == album.id -%}
+        {% if album.uppercats[1] != album.id -%}
         {% include album_sub.html category=album.uppercats[1] -%}
         {% endif -%}
         </div>
