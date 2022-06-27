@@ -4,7 +4,14 @@
 {% if album.uppercats[0] == page.category -%}
         <div class="card mt-2 album" id="{{album.id}}">
             <div class="card-header">
+                {% for album_parents in album.uppercats offset:1 -%}
+                    {% if forloop.last -%}
                 {{album.name}}
+                    {% else -%}
+                {% assign album_parent = site.data.categories | where: 'id', album_parents | first -%}
+                {{album_parent.name}} >
+                    {% endif -%}
+                {% endfor -%}
             </div>
             <div class="card-body">
                 <p class="card-text">{{album.comment}}</p>
