@@ -10,6 +10,7 @@
                     {% else -%}
                 {% assign album_parent = site.data.categories | where: 'id', album_parents -%}
                 {{album_parent.name}} >
+                    {% endif -%}
                 {% endfor -%}
             </div>
             <div class="card-body">
