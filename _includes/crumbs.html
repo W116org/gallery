@@ -1,5 +1,5 @@
 {% assign crumbs = page.url | remove:'/index.html' | split: '/' -%}
-<nav class="nav bg-light" id="crumbs">
+<nav class="nav bg-secondary-subtle" id="crumbs">
     <a class="nav-link" href="/">Gallery</a>
     {% for crumb in crumbs offset: 1 -%}
     {% if forloop.last -%}
