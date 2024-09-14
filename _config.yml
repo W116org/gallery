@@ -6,7 +6,7 @@ title: "W116 : Mercedes-Benz S-Class - Gallery"
 site.url: //gallery.w116.org
 site.baseurl: /
 
-cdn: "//gallery.w116.org"
+cdn: "//img.w116.org"
 
 permalink: /:path/:basename/
 
