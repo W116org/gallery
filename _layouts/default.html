@@ -14,6 +14,12 @@
 	{{site.title}}
 </title>
 <style>
+#navbar-toggle-cbox {
+  display:none;
+}
+#navbar-toggle-cbox:checked ~ .collapse {
+    display: block;
+}
 .search_box:focus-within {
     width: 20rem;
 }
